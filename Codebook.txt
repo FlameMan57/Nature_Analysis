@@ -1,0 +1,46 @@
+***General Public Connection to Nature (DATA)
+
+
+***Introduction:
+
+This codebook lists the variables used to analyze the relationship between time spent in nature, mental well-being, and loneliness.
+
+**Topic 1: How time spent in nature affects mental well-being
+
+D_hours – "How many hours on average do you spend in nature per week?"
+D_allot – "Do you own/work on an allotment?" (1 = Yes, 2 = No)
+MH_1 – "I’ve been feeling optimistic about the future"
+
+1=none of the time
+2=rarely
+3=some of the time
+4=often
+5=all of the time
+
+MH_3 – "I’ve been feeling relaxed"
+
+1=none of the time
+2=rarely
+3=some of the time
+4=often
+5=all of the time
+
+**Topic 2: People with access to green spaces might feel less lonely compared to those without.
+
+Lon_1 – "I experience a general sense of emptiness"
+
+1=yes
+2=more or less
+3=no
+
+Lon_4 – "I miss having people around"
+
+1=yes
+2=more or less
+3=no
+
+Lon_6 – "I often feel rejected"
+
+1=yes
+2=more or less
+3=no
