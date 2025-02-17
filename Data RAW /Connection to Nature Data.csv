@@ -1,0 +1,544 @@
+﻿D_Age,D_Gender,D_Nation,D_hours,D_activities,D_allot,D_group,MH_1,MH_2,MH_3,MH_4,MH_5,MH_6,MH_7,SE_1,PH_1,PH_2,Nat_1,Nat_2,Nat_3,Nat_4,Nat_5,Nat_6,SocID_1,SocID_2,SocID_3,SocID_4,Lon_1,Lon_2,Lon_3,Lon_4,Lon_5,Lon_6,SocSup_1,SocSup_2,SocSup_3,SocSup_4,SEff_1,SEff_2,SEff_3,SEff_4,SEff_5
+34,2,British,5.0,"Walks, gardening",1,2,4,4,4,3,4,4,4,2,2,2,5,5,5,5,5,5,4,4,5,4,2,3,1,1,2,3,4,4,4,4,3,2,2,3,2
+47,1,English,12.0,Allotment,1,1,3,4,4,4,4,4,5,4,2,1,4,4,5,5,4,5,5,6,7,5,3,1,2,1,1,3,5,5,6,6,3,4,4,4,4
+56,2,British,6.0,"Gardening, allotments, walking",1,2,4,4,4,4,4,4,4,4,2,1,4,5,5,0,5,5,6,7,6,6,3,1,2,3,1,3,5,5,4,6,3,3,4,3,2
+32,2,British,20.0,"Countryside walks, photography, dog walking, gardening, foraging, allotment",1,1,4,4,4,4,4,4,5,3,3,3,5,5,5,5,5,5,6,6,7,7,3,1,1,3,1,3,4,5,5,6,4,4,4,4,3
+39,2,British,10.0,Dog walking and gardening,1,2,4,4,3,4,3,4,4,4,2,2,5,5,5,5,5,5,5,5,5,5,3,3,3,1,2,3,4,3,7,5,2,3,3,3,3
+48,2,British,6.0,"Gardening, walking",1,2,4,5,3,4,4,3,5,3,4,4,4,4,4,4,3,4,2,2,2,1,3,2,3,3,1,3,4,4,4,4,3,3,4,4,3
+44,2,British,21.0,"Walking my dogs, gardening, allotment, walks in the woods",1,2,4,4,4,3,4,4,4,2,2,2,5,5,5,5,5,5,5,5,5,5,3,3,3,3,2,1,3,3,3,3,3,2,3,3,3
+62,1,British,18.0,"Allotment gardening , fishing and shooting",1,1,4,4,4,4,3,3,4,3,4,4,3,4,4,5,4,4,5,5,6,6,3,3,3,2,3,3,2,3,3,4,3,3,3,3,2
+59,1,British,25.0,"Fishing,walking, photography.",1,2,5,5,5,4,5,5,5,5,2,1,4,5,5,5,5,5,6,6,6,6,3,1,2,1,1,3,7,6,6,6,4,4,4,4,2
+47,2,English,10.0,"Allotment, gardening in garden, walking through civic park, bee-keeping, birdwatching through window when ill",1,1,3,4,3,4,4,3,4,3,5,5,3,5,5,5,5,5,4,4,6,3,3,3,3,3,1,3,2,2,2,2,2,3,2,4,1
+51,2,British,20.0,"Dog walking, allotment, nature photography",1,2,3,3,4,2,2,1,3,1,5,5,5,5,5,5,5,5,0,0,0,0,1,3,3,1,3,1,1,1,1,2,3,2,3,3,2
+65,2,British6,6.0,"Gardening,allotment",1,1,2,4,3,4,4,4,3,2,2,2,4,4,4,5,5,4,7,6,6,7,3,1,1,2,1,3,6,7,6,7,3,4,3,3,4
+46,2,English,10.0,Gardening,1,2,3,2,2,3,3,3,3,1,3,2,5,4,5,5,5,4,6,7,5,6,3,3,1,3,3,3,3,2,2,2,2,2,3,2,2
+51,2,British,12.0,Walking & gardening,1,2,4,4,3,4,4,4,4,3,4,4,5,5,4,5,5,5,4,4,4,4,3,1,1,1,1,3,7,7,7,7,4,4,4,4,3
+57,2,British,20.0,"Walks,gardening (home and allotment).",1,2,4,4,4,3,3,4,4,1,4,4,5,4,4,5,4,4,5,6,6,6,3,1,2,2,3,1,5,5,5,5,3,4,4,4,3
+37,2,British,6.0,"Walking dog, on my allotment",1,2,4,4,4,4,4,3,5,3,2,2,5,4,5,5,5,5,3,0,0,0,3,3,3,3,2,3,4,4,5,3,3,4,3,3,3
+62,2,British,25.0,"Dog walking, horse riding, gardening, allotment",1,1,4,3,4,4,4,4,5,4,2,2,3,4,4,3,4,3,6,6,6,6,3,1,1,2,1,3,5,6,5,4,4,4,4,4,3
+56,2,British,10.0,"Gardening Allotment, walking, Volunteering",1,2,4,4,3,5,5,4,5,4,4,4,5,5,5,5,5,5,4,4,4,4,3,2,3,3,2,3,4,6,4,5,4,4,3,4,2
+67,1,Uk,10.0,"Walks, gardening",1,1,4,4,4,4,4,3,3,3,4,3,4,4,4,5,4,5,6,6,6,6,3,2,2,3,2,3,5,4,4,4,3,3,3,3,3
+28,2,White british,20.0,"Gardening, walking, running",1,2,3,3,3,2,2,3,4,2,2,2,5,3,1,5,4,4,4,2,3,5,2,1,1,1,3,2,5,5,4,4,2,2,3,2,2
+53,2,British,4.0,"Walking, allotment gardening",1,2,5,4,4,4,4,4,5,5,2,2,4,4,5,5,5,5,6,6,6,5,3,3,2,3,1,3,7,7,7,7,3,3,3,3,3
+48,2,British,1.0,Chicken keeping and gardening,1,2,4,3,3,3,3,3,3,1,4,4,4,4,5,5,4,4,6,6,5,5,3,2,1,3,1,2,5,4,4,5,3,3,3,3,1
+50,1,English,14.0,Dog walking gardening cycling shooting,1,2,2,2,2,5,4,4,3,3,3,3,5,5,4,5,5,5,7,4,6,4,3,3,3,2,1,3,3,2,2,2,4,4,4,4,3
+44,2,British,6.0,Gardening in allotment,1,2,4,4,4,4,4,3,4,5,3,3,5,4,4,5,5,4,6,5,6,6,3,2,2,2,2,3,5,5,5,6,3,3,4,3,3
+46,2,british,12.0,"walks, gardening, allotment",1,2,5,4,5,5,4,4,5,2,4,4,4,4,5,5,4,5,6,5,6,4,3,3,2,2,2,3,7,4,2,5,4,4,4,4,2
+60,1,British,25.0,"Allotment, walks",1,2,5,5,5,5,4,4,5,5,3,2,3,5,5,5,4,5,6,6,6,6,3,2,3,3,1,3,7,5,5,6,4,4,4,4,3
+30,2,British,10.0,"Walking, allotment",1,2,3,4,2,4,3,2,4,3,4,5,5,5,4,5,4,4,6,6,6,5,1,1,3,3,1,1,5,5,4,3,3,3,3,3,3
+26,2,British,4.0,"Walks, allotment, enjoying the view",1,2,4,4,4,4,4,4,3,2,2,3,3,3,3,5,4,4,4,4,4,4,2,1,1,3,1,2,7,7,7,7,3,3,4,3,2
+49,2,Britihs,10.0,"Walking, camping and going to the allotment",1,2,4,4,4,4,4,5,4,4,2,2,5,5,5,5,5,5,6,6,6,6,3,1,1,3,1,3,7,7,7,7,3,3,3,3,3
+59,2,Welsh,4.0,"Gardening, walks, beach combing",1,2,4,4,4,4,4,4,4,4,3,3,4,5,5,5,5,5,7,7,7,7,3,1,1,1,1,3,7,7,6,6,4,4,4,4,4
+44,2,British,3.0,"Running, Bootcamp, allotment",1,2,4,4,4,4,4,4,4,3,2,2,4,4,4,4,4,4,5,4,5,4,2,1,1,2,2,2,5,5,5,5,3,3,3,3,3
+54,1,white british,24.0,"walking, gardening, fishing,",1,1,3,4,4,4,5,5,4,4,4,5,5,4,4,5,5,4,6,6,6,7,3,1,1,2,1,3,6,6,6,6,3,4,3,3,3
+61,2,British,5.0,walking - working allotment,1,2,3,4,4,3,4,3,4,3,3,4,4,2,2,2,3,3,5,4,5,4,2,3,3,1,3,1,3,3,3,3,4,3,4,4,3
+62,1,british,8.0,gardening,1,1,5,4,5,3,4,2,5,4,3,1,3,2,1,3,1,1,6,3,5,4,3,2,2,3,3,3,3,6,1,4,3,4,4,4,3
+42,1,British,25.0,"Gardening, walking dog + children",1,2,5,4,5,4,4,4,4,4,3,3,3,4,4,4,4,4,6,6,6,6,3,1,1,3,1,3,7,5,3,5,4,3,3,3,2
+68,2,English,15.0,Walking and allotment,1,2,4,4,5,5,5,5,5,2,2,2,5,5,5,5,5,5,6,6,6,6,3,2,1,3,1,3,7,7,6,6,4,3,4,4,2
+52,2,Greek,7.0,"Gardening, allotment, forest school, walks",1,2,5,5,5,4,4,5,5,5,3,3,5,5,5,5,5,4,6,6,5,5,3,1,3,1,1,3,7,7,7,7,4,4,4,4,3
+31,2,white british,70.0,walking gardening allotment park,1,2,4,3,3,4,2,1,5,4,3,3,5,4,4,5,5,5,6,6,6,6,1,3,3,3,3,1,1,1,2,1,4,4,4,4,4
+47,1,British,20.0,Gardening,1,1,3,4,4,5,4,4,5,3,3,2,1,3,1,4,4,4,6,5,3,2,3,2,3,1,3,1,7,7,7,7,4,4,4,4,4
+44,2,Welsh,8.0,"Gardening, dog walking, taking kids on walks and to parks",1,2,4,5,3,4,5,4,5,5,1,1,2,2,4,4,1,1,4,4,4,4,3,1,1,2,1,3,4,5,5,5,4,4,4,4,3
+49,2,British,10.0,"Allotment, hiking",1,2,4,4,4,4,4,4,4,3,3,3,3,2,3,5,3,4,4,4,4,4,3,2,2,3,2,3,4,4,4,4,3,3,3,3,3
+43,2,British,20.0,Allotment,1,1,4,4,4,4,4,3,4,4,2,2,5,5,5,5,5,5,5,5,5,5,2,2,2,3,1,3,2,2,2,2,3,3,3,3,2
+33,2,British,9.0,"Walking, allotment gardening, cutting firewood",1,2,3,4,3,4,4,3,4,3,3,4,5,5,4,5,5,5,5,3,5,4,2,3,3,2,3,2,2,2,3,3,3,3,3,3,3
+62,2,english,10.0,gardening  walking  contemplation  birdwatching,1,1,4,4,4,3,3,4,4,4,4,3,2,4,5,5,5,5,6,6,6,6,3,1,1,3,1,3,5,5,4,5,3,3,3,4,3
+71,2,English,8.0,Gardening dog walking,1,2,3,3,4,4,4,4,5,3,4,4,4,5,3,5,4,5,6,6,5,7,3,3,2,2,3,2,4,4,4,4,3,3,3,3,3
+47,2,British 12,12.0,"Walks, gardening",1,2,4,4,4,4,3,2,4,2,3,3,5,5,5,5,5,5,6,6,6,4,1,3,3,3,3,2,2,2,2,2,4,4,4,3,3
+53,2,British,6.0,"Gardening, have just taken on an allotment",1,2,4,3,4,4,3,4,5,2,5,5,3,4,5,5,4,5,7,4,7,4,1,2,3,1,3,2,4,3,2,6,3,4,4,3,2
+55,2,English,20.0,Gardening walking teaching social and therapeutic Horticulture in school,1,1,3,4,4,4,3,4,3,4,4,4,5,5,5,5,5,5,6,6,5,6,3,2,2,2,2,2,4,4,4,4,2,0,2,2,3
+35,2,British,10.0,"Walking, gardening, running",1,2,4,4,3,3,3,4,4,1,3,3,5,5,5,5,5,5,6,5,6,5,2,2,2,2,2,2,3,4,5,5,3,3,3,3,3
+46,2,British,10.0,Gardening/allotment,1,2,3,2,2,2,3,2,4,3,3,4,4,5,5,5,5,5,5,5,5,5,1,2,2,3,2,1,3,3,2,4,3,4,4,4,3
+60,1,UK,40.0,Allotmenteering,1,2,4,4,4,5,4,4,5,4,1,2,4,4,4,4,4,5,6,6,6,6,3,2,2,2,2,3,6,6,6,6,3,3,4,4,4
+52,2,White british,30.0,Walks.gardening.exploring area.holidays.shopping.,1,2,4,3,4,4,4,4,4,3,5,5,5,5,4,5,5,4,6,6,6,6,3,1,2,1,2,3,7,6,6,6,4,4,3,3,3
+58,1,British,4.0,"Walking, gardening",1,2,3,3,4,4,4,3,5,5,3,2,4,5,5,5,5,5,4,4,4,4,2,3,3,3,3,1,1,1,1,1,4,4,4,4,3
+26,2,British,30.0,Allotment. Walking. Gardening,1,2,4,3,5,4,5,3,5,3,2,4,4,3,2,5,3,2,4,3,4,4,3,1,1,1,1,3,5,6,4,4,4,3,4,4,3
+28,1,The north of ireland (irish),7.0,Walking my dog and gardening ( im over weight but it doesnt stop me gardening and growing my own veg),1,2,3,4,4,4,3,5,3,2,4,4,5,1,2,5,4,4,6,7,7,6,1,2,3,2,1,3,3,5,3,4,4,3,3,4,1
+31,2,British,35.0,"Dog walking, gardening and spending time with my hens",1,2,4,5,2,3,3,5,4,5,1,1,2,5,2,5,5,5,7,7,7,7,3,1,1,2,1,3,7,6,3,5,3,4,4,4,3
+52,2,British,8.0,Walking and allotment,1,1,3,2,3,3,3,3,3,3,3,3,4,5,5,5,5,5,6,3,6,5,1,2,2,3,1,2,4,4,5,5,3,3,3,3,3
+62,1,British,25.0,"Waking dog, allotment work",1,2,4,5,4,5,4,3,5,5,4,3,4,4,3,4,5,4,5,6,3,3,3,3,3,2,3,3,3,4,4,5,4,4,4,4,3
+52,2,British,20.0,"Working in several allotments, cycling in the countryside, walks.",1,1,4,4,4,4,4,4,5,3,3,4,4,5,5,5,5,5,7,7,7,6,3,1,1,3,1,3,7,7,6,6,3,4,3,4,3
+63,1,British,10.0,Walks Gardening Photography,1,1,5,5,4,4,4,3,5,4,3,2,5,4,5,5,5,5,7,6,7,7,3,2,3,2,1,3,6,6,4,5,4,4,4,4,3
+71,2,English,6.0,"Gardening, cycling, walking",1,2,4,5,4,4,4,4,5,4,3,3,1,5,3,4,4,4,6,5,6,5,3,1,2,2,1,3,4,6,5,4,3,3,3,3,2
+61,2,British,15.0,Walking dogs gardening,1,2,3,4,3,4,4,3,4,4,2,1,5,5,5,5,5,5,5,3,3,2,3,1,1,3,1,3,4,5,5,3,3,3,4,4,2
+61,2,British,14.0,"Walking dogs, gardening and allotment",1,2,3,4,3,3,3,3,4,2,4,4,2,3,4,4,4,4,0,0,0,0,3,3,2,3,2,1,2,3,3,2,3,3,3,3,3
+70,2,British,30.0,Walks gardening allotment,1,2,4,5,3,1,5,5,5,2,1,1,5,5,5,5,5,5,6,6,6,7,3,1,1,2,2,3,6,6,6,6,3,3,3,3,1
+40,2,British,4.0,Gardening,1,2,3,4,3,4,4,2,4,4,3,3,3,4,3,4,4,4,4,5,4,4,3,1,2,3,2,3,5,5,5,4,3,4,3,4,3
+60,2,Scottish,10.0,"Dog walking, children walking and allotment",1,1,5,5,4,4,5,3,5,4,3,3,4,5,5,5,5,5,6,6,5,5,3,2,3,3,1,3,5,5,2,4,4,4,4,4,3
+43,2,English,15.0,Gardening,1,2,4,4,5,5,5,4,5,5,3,2,5,5,5,5,5,5,7,7,7,7,3,1,3,3,1,3,3,6,3,5,4,4,4,4,3
+54,1,American,10.0,Gardening only.,1,2,3,3,4,3,4,3,4,4,4,4,4,5,5,5,5,5,3,3,3,5,2,3,3,1,3,3,2,2,2,2,3,4,4,4,2
+52,1,British,20.0,"Allotment, garden8ng, photography",1,2,3,4,4,4,4,4,5,3,2,2,5,5,4,4,4,5,5,5,5,5,3,1,1,3,1,3,6,6,6,6,3,3,3,3,3
+47,2,british,20.0,growing and foraging,1,2,2,5,5,5,5,2,5,3,2,1,5,5,5,5,5,5,0,0,0,0,3,2,2,3,2,3,7,7,7,7,4,4,4,4,3
+52,2,british,20.0,allotment & walking,1,2,3,3,3,4,3,4,4,1,4,4,4,4,3,4,3,3,6,6,6,6,1,3,3,1,3,2,3,3,2,3,4,4,4,4,3
+41,2,British,6.0,"Gardening, allotment, taking son to park, walking in countryside",1,2,3,4,4,4,3,4,4,3,3,3,5,5,5,5,5,5,7,6,7,6,3,1,3,3,1,3,4,4,3,3,3,3,3,3,3
+51,2,Scottish,10.0,"Allotment , gardening, walking , nature photography , hillwalking",1,1,4,4,4,3,4,3,4,4,2,2,5,5,5,5,5,4,7,7,6,6,3,2,3,3,1,3,5,5,5,5,4,4,4,4,4
+41,2,British,5.0,Allotment,1,2,4,3,3,3,3,3,4,3,3,3,4,4,5,4,4,4,3,3,3,3,3,2,2,3,2,1,4,4,4,4,3,3,4,3,3
+63,2,English,10.0,Allotment,1,2,4,5,4,5,5,5,5,5,4,5,2,5,3,5,3,4,6,6,6,5,3,1,2,1,1,3,7,7,7,7,4,4,4,4,3
+56,2,British,40.0,"Walking, gardening",1,2,3,5,4,4,4,5,5,4,2,2,5,4,3,5,4,4,4,4,4,4,3,1,1,2,1,3,7,7,7,6,4,4,4,4,3
+65,1,British,20.0,"Walks, golf, allotment, garden",1,1,5,5,4,4,5,5,5,4,2,2,5,4,5,5,4,5,5,4,6,4,3,1,2,2,1,3,7,7,7,6,4,4,3,4,3
+49,2,British,15.0,gardening,1,1,4,4,4,3,3,3,3,3,3,4,5,4,4,4,4,4,6,6,6,6,3,2,2,3,2,3,4,4,4,4,4,3,3,3,3
+68,1,English,14.0,"Gardening, Fishing",1,2,4,5,4,5,5,2,5,5,2,1,5,5,4,5,5,4,2,2,2,2,3,3,3,3,1,3,6,5,5,5,4,4,4,4,4
+59,2,White british,20.0,"Walking, gardening",1,2,4,5,4,4,4,5,4,5,2,2,4,5,5,5,5,5,6,6,6,6,3,1,1,3,1,3,6,5,6,5,3,3,4,4,3
+47,2,British,4.0,Allotment,1,1,4,4,4,4,3,4,4,5,4,4,3,5,4,4,4,4,6,6,6,6,3,1,1,1,1,3,6,6,6,6,4,4,4,4,4
+62,2,British,18.0,"Walking, gardening (including community garden) and working on allotment",1,2,3,3,3,4,3,3,4,4,2,1,2,5,5,4,5,5,6,6,7,6,3,1,1,2,1,3,5,5,5,5,3,3,3,3,3
+54,2,British,7.0,Walking .at allotment. Just parked near a tree in town to have coffee break. Tree outside my window. Seaside,1,2,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,4,4,4,4,3,2,2,1,2,1,4,4,4,5,3,3,3,3,3
+61,2,British,10.0,Walking and allotment,1,2,3,2,3,3,3,3,4,2,3,3,3,4,4,4,4,4,5,5,5,5,3,2,2,3,2,3,5,5,5,5,3,3,3,3,3
+48,2,British,15.0,"Gardening, country walks, cycling, camping",1,2,5,5,5,5,5,3,5,5,2,2,5,4,3,4,3,4,4,4,4,5,3,2,3,3,2,3,4,5,5,5,4,4,4,4,2
+53,2,British,10.0,"Gardening, walking, work",1,2,4,3,4,4,4,4,4,4,2,2,2,4,5,4,4,4,7,7,7,7,3,1,1,3,1,3,7,7,7,7,4,4,3,4,3
+50,2,British,8.0,"Gardening, walking.",1,2,3,4,3,5,5,4,5,4,3,3,3,5,5,5,5,5,7,7,7,7,3,2,3,2,1,3,5,6,6,5,4,4,3,4,3
+65,2,Welsh,40.0,Gardening/allotment,1,1,4,4,4,5,4,5,5,4,3,3,3,2,3,4,4,3,6,6,6,5,3,2,3,2,3,1,6,6,5,5,4,4,3,3,3
+38,2,British,2.0,"Allotment: digging, walking,",1,2,4,4,3,4,5,4,5,4,2,2,5,5,3,5,3,3,7,6,7,6,3,1,1,3,1,3,6,4,4,4,4,4,4,4,3
+27,2,British,18.0,Gardening.dog walking.,1,2,4,3,4,5,5,2,5,2,4,5,4,4,3,3,4,3,5,6,5,6,3,3,3,2,1,2,3,2,2,3,4,4,3,3,4
+64,1,British,10.0,"walking, gardening, allotment",1,2,4,4,4,4,4,4,4,3,2,2,5,4,3,4,4,4,6,6,5,5,3,1,1,1,1,3,7,7,7,7,3,3,3,3,2
+50,1,British,4.0,walking in parks and countryside and working allotment,1,2,4,4,3,3,3,3,4,4,3,3,4,5,5,4,5,4,6,6,6,6,2,1,2,1,2,3,6,6,6,6,3,3,3,3,3
+72,2,british,6.0,walking gardenong swimmimg,1,1,3,4,4,4,4,4,4,3,3,3,4,4,4,5,5,4,6,6,6,5,3,1,1,2,1,3,5,5,5,5,3,3,3,3,3
+58,1,British,40.0,"Walking the dog, self employed gardener, allotments",1,2,4,3,3,3,3,3,3,4,3,3,4,3,4,4,3,3,6,5,6,5,3,1,1,2,2,2,4,4,4,5,3,3,3,3,3
+42,2,British,20.0,"Walks with dog, conservation, allotment",1,2,4,4,5,4,4,4,4,4,2,2,3,4,4,5,4,4,7,7,7,7,3,1,1,1,1,2,7,7,7,7,3,3,4,4,2
+42,1,British,15.0,Gardening bike rides,1,1,4,3,4,4,4,3,4,1,4,4,5,5,2,5,5,4,5,4,5,5,2,2,3,2,2,1,3,3,4,3,3,3,4,4,3
+68,2,British,10.0,"Gardening, riding,",1,2,4,4,4,3,4,3,4,3,4,3,4,5,5,5,5,5,4,4,4,4,3,2,2,3,1,3,5,4,4,3,3,3,4,3,3
+33,1,british,5.0,"gardening, allotment, walks",1,2,3,4,3,4,4,4,4,2,3,3,5,4,4,5,4,5,5,6,6,5,2,2,2,3,2,3,3,5,4,6,3,3,4,4,3
+49,2,British,5.0,Walking. Filling bird feeders. Gardening at home. Allotment.,1,2,4,4,4,4,4,4,4,4,3,3,5,5,5,5,5,5,6,5,7,5,3,1,2,1,1,3,5,6,6,5,4,3,3,3,3
+33,2,British,8.0,"Allotment, walking",1,2,5,3,4,4,4,4,5,4,3,5,5,5,4,5,5,5,6,5,6,6,3,1,1,1,1,3,5,6,6,4,3,4,4,4,3
+65,1,british,8.0,allotment,1,2,4,4,4,4,4,4,5,4,2,2,4,4,3,4,4,4,6,6,7,6,3,2,2,3,1,3,5,6,5,6,3,3,4,4,3
+70,2,British,3.0,Gardening,1,2,4,4,4,4,4,3,4,4,4,4,2,4,3,5,5,5,6,6,6,6,3,1,1,3,1,3,5,6,3,6,3,3,3,3,3
+28,2,British,20.0,Walking allotment hiking scout leader,1,2,5,4,3,4,4,3,5,4,3,4,4,2,1,2,4,2,6,2,6,2,3,2,2,3,1,3,5,5,5,5,3,4,4,3,4
+62,2,English,15.0,"Walking dogs and grandchildren , gardening, on allotment",1,2,4,4,3,3,4,4,5,3,4,3,4,5,4,5,5,4,7,6,7,6,2,1,1,1,1,2,6,6,6,6,3,4,3,3,2
+59,1,English,20.0,"Allotmenting, gardening, walking, sitting in garden etc",1,2,5,5,5,5,5,5,5,5,2,2,5,5,5,5,5,5,4,2,4,4,3,2,1,2,1,3,5,5,3,3,4,4,4,4,1
+45,2,british,10.0,"gardening, allotment",1,1,5,4,4,4,5,4,5,4,4,4,4,3,3,5,4,3,7,7,7,7,3,1,1,2,1,3,5,5,5,6,3,4,4,4,3
+38,2,British,10.0,"Allotment, gardening, walking in the woods (geocaching), visiting parks with my children",1,1,4,4,3,4,4,4,5,3,3,3,4,5,3,5,5,4,5,5,5,5,3,3,3,3,3,2,3,3,3,4,3,3,4,3,2
+64,2,"Swiss/German, born in Wales.",30.0,Allotmenteering; plaanting up hanging baskets & troughs,1,2,5,5,4,5,5,4,5,5,3,3,1,5,5,5,5,5,4,1,3,3,3,2,2,3,2,3,2,2,2,2,4,4,3,3,3
+31,1,British,35.0,"Walking, allotment",1,2,3,2,2,2,4,3,5,2,3,4,5,5,5,5,5,5,7,1,5,5,1,2,3,3,1,2,2,2,2,2,4,4,4,3,3
+66,2,British,15.0,"Walks, allotment, garden, cycling on and off road",1,2,3,3,4,4,3,3,5,4,2,2,5,5,5,5,4,5,4,4,4,2,3,1,1,3,1,3,6,6,6,6,3,3,3,3,3
+53,2,British,15.0,"Walks, gardening, allotment",1,2,1,1,3,3,3,1,4,1,5,5,5,4,5,5,5,5,1,1,1,1,1,3,3,3,3,1,1,1,2,1,3,3,4,4,3
+49,2,British,8.0,Allotment and walks by lake,1,2,4,4,4,4,4,5,5,3,5,5,2,5,4,5,5,5,6,6,5,6,3,2,2,1,1,3,7,6,6,4,3,3,4,3,3
+72,2,British,10.0,"Walking, Courtyard/Patio Gardening, Allotment Work, Wildlife Gardening",1,1,4,4,4,4,5,3,5,5,1,1,4,5,4,5,4,4,6,6,6,6,3,2,3,2,1,3,6,6,6,6,4,4,4,4,4
+75,2,English,12.0,"Allotment, walking and gardening at home",1,2,3,3,4,4,3,5,4,2,4,4,4,5,4,5,4,5,5,5,5,5,3,1,1,3,2,3,5,6,5,5,3,3,3,3,2
+56,2,British,8.0,"walking, allotment",1,2,4,4,3,4,4,4,5,4,4,4,3,5,4,4,3,3,6,6,6,6,3,1,1,2,1,3,6,6,6,6,3,3,4,4,3
+37,1,British,20.0,"Forest school, allotment",1,2,4,4,4,4,4,5,5,4,3,2,4,5,5,5,5,4,6,6,6,6,3,2,2,3,2,3,6,6,6,7,4,4,3,4,3
+64,1,british,5.0,"walks, gardening",1,1,3,3,4,3,5,3,4,4,3,2,4,4,3,5,5,4,4,4,4,4,3,2,1,1,2,3,4,4,3,4,4,4,4,4,3
+44,2,British,15.0,"Walking, gardening, allotment, photography",1,2,4,4,3,3,3,4,3,1,3,3,3,5,5,5,5,5,6,5,6,6,3,2,3,2,1,2,3,3,3,3,3,3,2,2,2
+55,2,British,20.0,"Walks...wood/lake/fields/parks, gardening, allotment,photography outside",1,2,2,3,3,3,3,3,3,1,4,4,4,4,4,5,5,5,5,4,6,4,2,3,3,2,3,2,2,2,3,3,3,3,3,3,3
+45,2,British,5.0,"Walking, gardening, picnics, sitting nature watching",1,2,3,4,3,4,3,3,4,2,3,3,3,2,5,4,5,4,3,4,4,4,1,2,3,2,2,1,2,2,2,2,3,3,3,3,3
+36,2,british,10.0,"gardening, walking, volunteer gardening",1,2,3,3,3,3,3,3,4,3,3,3,4,5,5,5,5,4,6,6,6,4,3,1,2,1,2,3,4,4,4,4,3,3,3,3,3
+47,2,British,16.0,Early morning walk/ gardening/ allotment/ photography of local enviroment - Instagram and walk to and from work,1,2,3,4,4,3,4,4,4,3,3,3,4,4,4,5,5,5,0,0,0,0,3,1,1,,2,1,5,6,6,6,3,3,3,3,3
+61,2,British,25.0,"Walks, gardening, allot m ent",1,2,5,5,4,5,4,4,5,4,2,1,2,4,5,5,4,4,6,6,6,4,3,2,2,3,1,3,6,6,5,5,4,3,3,3,2
+46,2,British,18.0,"Allotment, walks locally, visit a deer park",1,1,5,5,4,4,4,4,5,4,2,3,5,5,4,5,4,4,6,6,6,7,3,2,2,3,2,3,6,6,5,5,3,3,4,4,3
+54,2,British,15.0,Allotment mainly,1,2,5,5,3,4,4,5,5,4,2,2,2,5,4,4,4,4,4,4,4,4,3,1,1,3,1,3,7,7,6,7,3,4,4,4,3
+64,1,Uk,6.0,Walks and allottment,1,2,4,3,4,4,4,4,4,5,3,2,2,5,5,5,5,5,5,6,6,4,3,1,1,1,1,3,5,4,4,6,3,3,3,3,4
+46,2,british,4.0,"allotment, general walks",1,2,2,4,5,5,5,4,5,4,2,2,4,4,3,5,4,5,6,6,7,7,3,1,2,1,1,3,5,5,5,5,4,4,4,4,3
+46,2,Welsh,7.0,"Walks, allotment, watching rugby in muddy fields",1,1,4,4,3,3,4,3,4,3,2,2,2,3,5,5,5,4,5,2,6,5,3,2,3,1,2,1,3,5,4,3,4,4,4,4,2
+34,2,British,12.0,"Walking, gardening, running",1,2,3,4,4,4,4,4,4,2,3,3,4,4,4,4,4,4,6,6,6,5,3,2,2,3,1,3,5,5,4,6,3,3,3,3,2
+48,2,English,5.0,Gardening,1,2,3,2,3,1,2,3,2,2,3,3,5,5,3,4,3,3,6,6,6,5,2,3,3,2,3,1,2,2,2,3,3,3,3,3,2
+59,2,British,25.0,Gardening,1,2,4,4,4,4,3,4,5,3,3,2,4,2,4,4,4,4,6,6,6,6,3,1,1,3,1,3,7,7,6,7,3,3,3,4,2
+53,2,Irish,20.0,Walking / Allotment / gardening /,1,1,5,5,3,4,4,4,4,4,3,2,4,5,3,5,5,4,6,4,5,3,3,1,1,3,2,3,4,4,5,4,4,4,4,4,3
+30,2,British,20.0,"Gardening, walking, cycling, days out",1,2,3,3,3,3,4,3,3,1,3,3,5,5,5,5,5,5,3,3,3,3,1,1,3,3,1,1,3,3,4,2,3,3,4,3,3
+57,1,Dutch,15.0,"Walking long distances, Kennedymarches, 4-Daagse Nijmegen, gardening",1,2,3,4,4,3,3,3,4,3,4,5,5,3,3,2,2,4,5,5,6,6,2,3,3,3,1,3,2,2,3,3,3,3,3,4,3
+52,1,English,40.0,Walks. Cycling. Gardening. Kayaking. Conservation. Wild food foraging.,1,1,4,4,4,4,4,4,4,4,3,3,3,5,4,5,5,5,4,3,5,3,3,2,3,1,2,3,5,5,5,6,3,4,4,4,3
+38,2,British,15.0,Working in my allotment,1,2,4,4,3,4,4,3,4,3,1,2,5,5,3,5,5,5,5,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4,4,4,4
+64,1,British,14.0,"Walking, gardening and sea fishing",1,2,5,4,5,5,5,4,5,5,1,1,1,4,3,4,4,4,7,7,7,7,3,1,1,1,1,3,7,5,5,6,3,4,4,4,3
+65,2,British,7.0,"Walking, gardening, cycling",1,1,5,5,3,4,4,5,5,4,1,1,4,5,5,5,0,4,6,6,6,5,3,1,2,1,1,3,6,5,4,5,4,4,4,4,1
+51,Transgender,English,30.0,walking and Gardening,1,2,3,5,3,4,3,,4,2,3,3,5,5,5,5,5,5,7,6,7,6,1,1,3,1,3,1,1,6,5,5,4,3,4,4,3
+65,2,British,35.0,Gardening walking allotment,1,2,4,5,4,4,4,3,5,4,2,2,5,4,3,5,4,4,5,5,5,3,3,2,1,1,2,1,2,3,2,2,3,3,4,3,3
+62,2,British,25.0,"Hiking, gardening, dog walking, geological mapping",1,2,5,3,4,5,5,4,5,4,1,1,5,5,5,5,5,5,6,4,6,5,3,1,1,3,1,3,6,7,7,7,4,4,4,4,3
+64,1,Indian,20.0,"Walks, gardening",1,1,5,5,5,5,5,5,5,5,3,2,3,5,5,5,5,0,7,6,6,7,3,1,1,2,1,3,7,6,6,6,4,4,4,4,3
+35,2,British,16.0,My allotment and dog walking,1,1,3,3,5,4,4,3,4,2,2,4,4,4,4,5,4,4,6,6,6,6,1,2,2,2,2,3,4,5,5,5,3,3,3,2,3
+69,2,british,35.0,"allotment, walking dogs, bird recording, pond dipping, bug hunts, gardening",1,1,4,5,5,4,4,5,5,4,1,2,3,5,5,5,5,5,6,6,6,6,3,2,1,3,1,3,5,5,5,6,3,3,3,3,3
+66,2,British,10.0,"Walks, gardening, allotment",1,2,4,4,4,4,5,4,5,4,2,2,2,5,2,4,3,3,5,6,6,4,3,2,2,3,1,3,6,6,6,5,3,3,4,4,3
+65,2,British,5.0,Digging weeding planting harvesting talking on my allottment plot. Weeding planting and sitting in my garden BBQ parties. Walking in the park. Walking in woods,1,1,4,5,3,4,3,4,5,3,3,2,1,5,5,5,5,5,7,7,6,7,3,1,2,1,1,3,4,5,7,7,4,4,4,4,3
+52,2,British,10.0,Walking my dog. Gardening. Allotment. Conservation work,1,2,5,5,4,4,4,4,5,4,5,5,5,5,5,5,5,5,7,7,7,7,3,1,1,3,1,2,5,6,5,6,3,3,4,4,2
+68,1,british,6.0,"gardening, allotment, walks, visit to country park, cycling",1,1,3,3,3,3,3,2,3,3,4,3,4,3,2,3,3,2,5,5,5,5,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3
+62,2,English,8.0,"Walking, gardening, working on the allotment, visiting national trust gardens",1,1,5,4,3,4,5,5,5,5,2,2,5,5,5,5,5,5,6,6,6,6,3,1,1,3,1,3,6,5,5,5,4,4,4,4,3
+60,2,british,20.0,walk allotment gardening,1,2,4,4,4,3,3,3,5,3,3,4,4,4,4,4,5,4,7,3,6,3,3,2,2,2,2,1,2,2,2,2,4,4,4,4,3
+36,2,English 3,3.0,"Gardening, walking",1,2,4,4,3,4,4,5,4,4,1,1,2,4,3,5,5,3,6,6,6,6,3,1,1,1,1,3,6,6,6,6,4,4,4,3,3
+49,2,English,30.0,"Gardening, walking, birdwatching",1,2,4,3,4,3,3,3,4,2,2,2,5,5,5,5,5,5,4,4,4,4,3,2,3,3,1,3,6,6,5,7,3,3,4,3,3
+48,2,British,15.0,Garden and allotment and short local walks,1,1,3,3,3,4,4,3,4,2,2,2,5,4,5,4,4,4,5,5,5,4,2,3,3,2,3,1,2,3,4,2,3,3,2,3,2
+62,2,"British by passport, Irish by blood.",18.0,"Allotment, own garden, playing with grandkids, biking, walking. In the summer our garden is used for socialising, eating and relaxing.",1,2,3,5,4,5,4,4,5,4,2,1,5,5,5,5,5,5,6,5,5,6,3,1,1,3,1,3,5,4,3,3,4,4,4,4,3
+43,2,English,14.0,"Walking, running, allotmenting, just looking",1,2,4,5,3,4,4,2,5,4,2,2,5,5,1,4,4,1,2,1,2,2,3,3,3,3,1,3,7,5,1,5,4,4,4,4,4
+54,2,English,4.0,Gardening,1,2,5,5,4,4,5,5,5,5,1,2,2,3,1,2,2,1,6,6,7,6,3,1,1,3,1,3,6,7,7,7,4,4,4,4,3
+43,2,English,20.0,"Walking, park, sitting in traffic and identifying wild plants, allotment, noticing trees along the road, nosing over garden walls.",1,2,4,4,4,4,4,3,5,3,3,3,2,4,4,5,3,4,6,6,6,6,3,2,3,2,1,3,4,4,3,5,4,4,4,4,3
+57,2,British,7.0,"Potting bulbs, checking garden plants, hoeing allotment, edging grass, picking vegetables, sweeping leaves, composting",1,2,3,4,4,3,4,3,4,3,4,4,3,5,4,5,5,5,6,6,6,6,3,2,3,3,2,3,3,3,3,4,4,3,4,4,3
+52,2,English,6.0,"Cycling on forest trails, gardening and allotment.",1,2,4,4,4,5,5,4,5,4,2,2,4,5,5,5,5,5,6,6,6,5,3,2,2,3,2,3,7,5,5,5,4,3,4,4,3
+52,2,British,8.0,Allotment gardening. Dog walking,1,2,3,3,4,4,4,3,4,4,3,4,1,4,4,4,4,4,5,3,3,4,3,1,3,3,1,2,4,4,4,4,3,3,3,3,3
+58,2,British,12.0,"Dog walking in wildlife area, allotment ,gardening",1,2,5,5,5,5,5,3,5,3,2,2,5,3,5,5,5,5,6,3,6,4,3,2,1,3,2,2,3,4,3,5,4,4,4,4,4
+67,1,english,16.0,gardening walking,1,2,4,4,4,4,4,4,4,4,3,2,2,5,5,5,5,5,6,6,7,7,3,2,2,1,2,2,2,2,2,4,3,3,3,4,2
+67,1,Britrsh,30.0,Gardening,1,2,3,4,4,3,5,5,5,5,4,3,1,4,1,3,2,2,3,4,3,6,3,1,3,2,1,3,6,2,2,4,4,4,4,4,3
+48,1,British,6.0,Gardening and walkiig,1,2,3,3,3,3,3,4,4,4,2,2,4,4,4,4,3,3,7,7,7,7,2,1,1,1,1,3,6,6,5,5,3,3,3,3,3
+47,2,British,12.0,"gardening, walking, cycling",1,2,5,5,4,5,4,5,5,4,1,1,5,5,5,5,5,5,6,6,7,6,3,1,1,2,1,3,7,7,7,7,3,4,4,4,3
+59,2,British,3.0,Walks & gardening,1,2,1,2,3,2,3,2,4,1,4,4,4,4,5,5,5,4,1,1,1,1,1,3,3,1,3,1,1,1,1,1,4,3,4,4,3
+28,2,English,10.0,"Walking, allotment tending, occasionally meditating",1,2,4,3,3,4,5,5,5,4,2,4,5,5,4,4,5,5,6,4,6,7,2,3,3,3,1,3,5,4,1,5,3,4,4,4,3
+55,1,british,80.0,"walking, allotment, gardening,chicken keeping.",1,2,4,3,5,5,5,3,5,5,3,4,5,4,4,5,4,4,4,4,4,4,3,1,1,3,1,3,7,7,7,7,4,4,4,4,4
+57,2,british,30.0,gardening and 4 allotments,1,2,4,5,4,4,4,3,4,4,4,4,4,4,5,5,5,4,5,4,4,6,2,2,3,1,3,3,2,3,2,2,4,3,3,3,2
+35,1,British,20.0,"Walks, gardening, conservation work.",1,1,5,5,5,5,5,5,5,5,1,2,4,5,4,5,5,4,6,6,7,5,3,1,1,3,1,3,6,7,7,7,3,3,3,3,2
+44,1,Uk,20.0,"Walks, photography, allotment, gardening, feeding the birds",1,2,4,4,4,4,4,3,4,5,1,2,5,5,4,5,5,5,6,6,5,6,3,1,1,2,1,3,7,6,6,7,4,4,4,4,4
+50,1,Scots,10.0,"Gardening / Landscaping, Walking, Cycling, Photography",1,1,3,4,2,3,4,4,4,3,2,2,2,5,5,5,5,4,7,7,7,6,3,3,3,3,2,2,3,5,6,5,4,3,4,4,3
+60,2,British,12.0,Walking. gardening,1,1,3,2,3,4,4,2,4,3,3,3,4,4,4,4,4,4,6,6,6,6,1,1,1,1,3,3,3,5,5,5,3,3,3,3,2
+43,2,British,10.0,"gardening, work, walking",1,1,4,5,3,5,5,3,5,4,2,2,4,5,4,5,5,5,6,5,5,6,3,1,1,3,1,2,6,5,6,7,4,4,4,4,4
+42,1,British,4.0,Dog walking and allotment gardening,1,1,4,4,4,4,4,3,4,4,4,5,4,4,3,4,4,4,5,6,5,6,3,1,1,3,1,3,6,6,6,6,3,4,4,4,4
+64,2,Scottish,30.0,Walks gardening,1,1,4,3,3,4,4,3,4,3,2,2,4,5,3,5,4,3,5,5,5,4,3,1,1,3,1,3,4,4,4,4,3,3,3,3,3
+64,2,German,8.0,"Allotment gardening, walks in the park, gardening project with nursery children",1,1,3,4,4,4,4,4,4,3,3,3,4,5,3,5,5,5,5,5,6,4,3,1,2,3,1,3,3,4,4,5,4,3,3,3,3
+62,1,Scottish,12.0,"Allotment  ,country walking.coastal walks,foraging ,hill walking, sea and fresh water fishing",1,2,3,3,4,3,3,0,5,4,3,3,4,5,5,5,5,5,7,6,7,6,2,1,1,1,3,1,6,6,6,6,3,4,3,3,3
+51,2,German,10.0,"Walks, gardening",1,1,4,4,5,3,4,4,4,5,2,2,5,5,5,5,5,5,6,6,6,5,3,2,3,1,3,3,5,6,6,5,3,3,3,3,2
+64,2,Scottish,15.0,"Allotment, cycling, walking",1,2,3,4,3,3,0,3,3,3,2,1,4,2,5,5,5,5,6,6,6,6,3,2,2,3,2,3,4,3,3,5,3,2,3,3,2
+47,1,Scottish,3.0,"Mainly allotment work, but in the current season I am only spending a few hours per week at my plot. I also enjoy hill walking, but lack the time & transport to make it into the hills as much as I would like.",1,1,3,3,3,3,3,3,3,3,3,2,5,5,5,5,5,5,7,5,6,6,3,2,3,2,2,2,4,5,5,5,3,3,3,3,3
+82,2,Scottish/British,6.0,"My activities in nature are limited by having Rheumatoid Arthritis, diagnosed aged 35, with intermittent periods of incapacity.",1,2,5,4,3,3,4,3,5,5,4,4,1,5,3,5,5,3,5,5,3,2,3,3,3,3,1,3,4,4,5,6,4,3,3,4,4
+58,1,British,6.0,"Gardening, walks",1,2,4,4,4,4,4,3,5,5,3,3,1,2,2,4,4,3,5,5,6,5,3,1,1,3,1,3,5,5,5,5,4,3,3,3,3
+73,2,Australian/British,8.0,"Gardening, walking, cycling",1,2,4,4,4,4,4,3,4,3,2,3,3,4,5,5,5,5,7,7,7,6,3,2,2,3,1,3,5,5,5,5,3,3,3,3,3
+61,2,Bristish,4.0,gardening walks,1,2,4,4,3,3,3,3,3,4,4,3,3,4,5,5,5,5,4,4,4,4,3,1,1,3,1,3,6,6,6,6,4,4,4,4,4
+68,1,Scottish,10.0,"Gardening, walking",1,1,4,4,4,3,4,4,4,4,2,2,4,3,3,4,3,4,4,4,5,6,3,1,1,2,1,3,6,6,6,6,3,3,3,3,2
+70,1,Brit,20.0,Walking in the parks. Long distance back-packing. Allotment work. Jogging.,1,1,4,4,4,4,3,4,3,3,1,1,5,5,5,5,5,5,5,5,5,4,3,2,2,2,2,2,5,5,5,5,3,4,4,3,3
+56,2,British,4.0,"Allotment, beekeeping, garden, walking but not as much as Iâ€™d like to",1,2,3,3,3,3,3,4,4,2,3,3,5,5,5,5,5,5,0,0,0,0,3,1,2,2,1,2,6,6,6,6,3,3,3,2,2
+53,1,english,6.0,"walking, gardening",1,2,2,4,3,5,5,5,5,3,3,2,5,5,5,5,5,5,6,5,7,6,3,1,1,2,1,3,5,6,6,4,4,4,4,4,3
+56,2,Scottish,6.0,"Walking, gardening",1,2,4,5,3,4,4,5,5,4,2,2,4,5,5,5,5,5,7,4,7,6,3,1,1,2,1,3,7,5,6,6,4,4,4,4,2
+57,1,scottish,25.0,"gardening, footpath work tree planting",1,1,3,4,4,4,4,3,4,4,3,2,5,4,1,5,3,4,6,5,5,6,3,2,3,2,2,1,2,2,2,2,3,3,3,3,1
+52,2,British,5.0,"walks, working on the allotment, working in the garden.  Also walk to work but not sure this counts as nature",1,2,5,5,5,5,4,4,4,5,2,1,5,4,3,4,4,3,6,6,7,6,3,1,1,3,1,3,7,7,7,7,4,3,4,3,3
+58,2,British,4.0,"Walking, gardening, looking at nature",1,1,5,5,4,5,5,5,5,5,2,2,3,5,5,5,5,5,7,7,7,7,3,1,1,3,1,3,7,7,7,7,4,3,4,4,4
+60,2,Irish,10.0,Walks. Allotment.,1,2,4,4,3,3,5,3,4,3,5,5,3,4,4,4,4,4,2,3,2,2,1,3,3,3,3,1,1,2,1,1,3,3,3,3,3
+48,2,Dutch,4.0,Gardening walking,1,2,4,4,4,4,4,4,5,4,2,2,4,4,3,5,5,3,6,3,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,2,Welsh,5.0,"Walks, gardening at allotment, trips to park",1,2,3,2,2,3,2,2,3,3,4,4,4,4,4,5,4,3,4,4,4,4,2,2,3,2,2,1,2,2,2,2,0,0,0,0,0
+44,2,British,10.0,Gardening dog walking,1,2,3,3,3,3,3,3,3,2,5,5,5,5,4,4,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,1,British,5.0,"Gardening, cycling",1,1,3,3,4,4,4,3,4,4,4,4,3,4,4,5,4,2,5,3,4,3,3,2,3,3,2,3,2,2,3,3,4,3,4,3,3
+32,2,British,14.0,Walking gardening cycling,1,2,3,3,3,3,3,3,4,3,3,3,5,4,4,5,5,4,5,5,3,4,3,2,2,2,2,2,0,0,0,0,0,0,0,0,0
+40,1,Scotish,40.0,"Walks, gardening",1,2,4,4,5,5,4,4,5,4,3,2,5,5,5,5,5,5,0,0,0,0,3,2,2,2,2,2,5,5,5,5,4,3,4,4,2
+43,1,Irish,5.0,gardening,1,2,5,5,5,4,5,3,5,4,1,1,4,3,4,4,4,4,4,3,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,2,British,5.0,"Allotment, walking",1,2,3,4,4,4,4,2,4,1,4,5,2,5,4,4,4,4,3,3,3,3,3,2,2,1,3,1,3,4,3,5,0,0,0,0,0
+65,2,Irish,7.0,"gardening, walking",1,1,3,3,4,4,3,3,3,2,2,2,5,5,5,5,5,5,5,6,6,5,2,2,2,1,2,3,4,4,4,4,3,3,3,3,2
+53,2,Australian,8.0,"Walks with dog ,gardening",1,2,4,4,4,4,4,3,5,2,3,3,4,,5,5,5,5,6,6,6,6,3,1,1,3,1,3,5,5,5,5,0,0,0,0,0
+32,1,British,10.0,"Walks, allotment, bug collecting, bird spotting",1,1,4,5,4,4,3,5,5,3,3,3,5,5,5,5,5,5,7,7,7,7,3,1,3,1,1,1,7,7,5,7,0,0,0,0,0
+39,1,Uk,3.0,Allotment and garden,1,1,4,4,4,4,5,4,5,5,2,2,2,4,4,4,4,4,6,6,6,6,3,1,1,3,1,3,7,7,7,7,0,0,0,0,0
+63,2,English,17.0,"Gardening, walks, photography, visiting RHS and NT",1,2,5,5,5,5,5,3,5,4,2,1,4,5,4,5,4,4,5,4,4,4,3,2,2,3,1,3,5,5,5,5,3,3,4,3,3
+70,2,British,4.0,"walks, gardening, allotment, birdwatching from house",1,2,3,4,4,5,5,5,5,3,3,3,4,5,5,5,5,5,6,6,6,6,3,2,2,2,2,3,4,5,5,5,4,4,4,4,3
+66,2,British,21.0,"Walking, gardening, planting hedges, yard work, eating al fresco, playing with pets, playing with grandaughter",1,2,5,5,5,5,5,5,5,5,1,1,2,4,5,5,5,5,4,4,4,4,3,1,1,3,1,3,2,2,2,2,4,4,4,4,4
+59,2,Canadian,7.0,Gardening,1,2,4,4,4,4,5,5,4,5,2,2,4,4,5,4,5,5,6,6,6,6,3,1,2,2,1,3,5,5,5,5,3,3,3,3,3
+50,2,British,5.0,Walking my dog and working in allotment,1,2,4,3,3,4,3,4,4,4,3,4,3,5,4,5,4,4,6,5,5,6,3,1,2,3,1,3,6,6,5,6,3,3,4,3,3
+55,2,English,7.0,"Walks, gardening",1,1,3,5,4,5,5,4,3,3,2,2,4,5,4,5,5,4,5,6,6,6,3,1,1,2,1,3,7,7,5,5,3,3,3,3,3
+41,2,British,10.0,"Allotment, walking",1,2,3,3,5,4,5,3,5,2,1,1,3,5,5,5,5,5,7,7,7,7,3,1,1,2,1,3,7,7,7,7,3,3,3,4,3
+77,2,Britiah,6.0,"Walking, Gardening",1,2,3,5,3,4,3,4,5,4,2,1,1,4,4,4,4,3,7,7,7,6,3,1,2,3,1,3,6,7,7,6,3,3,3,3,3
+66,2,GBR,8.0,"grdening, walking, cycling",1,1,4,4,4,3,4,3,5,3,3,1,5,4,4,5,5,5,6,2,6,2,3,1,2,3,1,3,4,4,4,4,4,4,4,4,3
+64,2,British,20.0,"Walking, gardening",1,1,3,3,3,3,3,3,5,4,2,2,1,4,3,5,3,3,6,2,6,2,3,2,3,3,2,3,5,5,5,5,3,3,3,3,3
+77,1,British,15.0,allotment/gardening,1,1,4,5,4,5,5,5,5,5,1,1,3,4,5,5,5,5,6,6,6,6,3,1,1,2,1,3,7,7,7,7,3,3,4,3,3
+69,1,British,16.0,"4 allotments, a garden, church garden,walks,birdwatching",1,2,3,5,3,4,4,5,5,4,2,1,5,5,5,5,5,5,6,6,6,6,3,1,1,3,1,3,6,6,6,6,3,4,4,3,3
+62,1,British,11.0,Walking and gardening,1,2,5,5,5,5,5,5,5,5,1,1,5,5,4,5,5,5,6,5,6,5,3,1,1,3,1,3,7,7,7,7,4,4,3,3,4
+40,2,British,8.0,"Gardening, allotmenteering, taking kids to park, walking in the woods",1,2,5,5,4,4,4,3,3,2,3,5,3,5,5,5,5,4,0,0,0,0,3,1,3,3,1,2,5,5,5,7,4,4,4,4,3
+68,1,English,3.0,"Walks, allotment gardening, visiting local nature reserve, live web cam viewing (Shetland)",1,2,4,3,4,4,4,4,5,4,4,3,5,4,5,5,5,5,5,4,5,4,3,2,2,3,1,3,7,7,6,6,3,3,3,3,3
+55,2,British,8.0,"Walking, playing with the dogs, gardening",1,2,3,3,3,3,4,4,4,2,3,3,4,4,2,5,4,3,4,3,3,3,3,2,2,2,2,2,3,3,3,3,3,3,4,4,2
+66,1,British,10.0,"Walks, gardening, allotment.",1,2,4,4,3,3,3,4,4,4,4,4,4,2,2,4,3,4,2,3,2,3,3,3,3,3,1,3,3,3,3,4,3,3,3,3,3
+60,2,British,6.0,"Gardening (including allotment), beekeeping, walking, cycling",1,2,4,4,3,4,4,5,5,4,2,2,5,5,5,5,5,5,7,5,6,6,3,1,1,3,1,3,7,7,6,5,3,3,4,4,3
+58,1,British,10.0,Gardening,1,2,4,3,3,4,4,2,4,3,2,2,4,4,1,4,4,2,6,5,6,5,3,2,2,1,2,3,5,6,6,6,3,3,4,4,2
+74,2,English,20.0,Gardening,1,1,4,5,4,5,4,3,5,5,1,1,3,5,4,4,4,4,5,6,6,5,3,2,1,3,2,3,4,5,5,5,4,4,4,3,3
+68,2,british,40.0,"gardening, walking, running,archaeology",1,2,5,5,5,4,5,5,5,5,1,2,2,5,3,5,5,5,6,6,6,6,1,1,1,2,1,3,6,6,6,6,4,4,3,3,3
+69,2,English,20.0,Walking with dog and pottering in allotment,1,2,3,3,3,3,3,3,2,3,4,4,5,4,4,5,5,5,3,2,2,1,3,2,2,3,3,3,3,4,4,4,4,4,4,4,4
+74,1,English,4.0,"Allotment, garden, exercising dog (Welsh Border Collie)",1,2,4,5,4,3,4,3,3,3,2,2,3,4,5,4,5,5,5,4,4,4,3,1,2,2,2,3,6,6,5,5,3,3,3,3,0
+77,2,british,15.0,"walks ,gardening, visiting gardens",1,2,3,3,3,3,3,3,3,2,3,3,3,2,1,2,4,3,6,4,6,6,3,1,1,1,1,3,5,5,5,5,3,3,3,3,3
+55,2,UK,12.0,"walking , hiking , allotment gardening",1,2,4,4,5,5,5,5,5,5,2,3,4,4,4,5,4,5,5,4,5,4,3,3,3,3,1,3,7,7,7,7,3,3,4,4,3
+62,2,British25,25.0,Walking and gardening,1,2,5,4,4,4,4,4,4,3,2,2,4,2,3,5,5,4,4,4,5,5,3,1,1,3,1,3,6,6,6,6,3,3,3,3,3
+72,1,English,15.0,Mainly allotments and garden-occasional walking,1,1,4,4,4,5,5,4,5,4,3,3,3,5,3,5,4,4,6,6,6,5,3,1,1,3,1,3,7,7,7,7,4,4,4,4,4
+74,2,British,17.0,Walking. Gardening in garden and allotment.,1,1,5,4,4,5,5,5,5,5,2,1,4,5,3,4,4,3,6,6,6,6,3,1,1,2,1,3,6,5,5,6,4,4,3,3,2
+64,1,British,45.0,"Gardening, Allotment & Walking",1,1,5,5,5,5,5,5,4,5,2,2,4,5,3,5,4,5,6,3,6,6,3,1,1,2,2,3,7,6,5,6,4,4,3,3,2
+38,2,Hungarian,10.0,Allotment. Walking playground with children,1,2,5,5,3,5,4,5,5,5,1,2,5,4,5,5,5,5,7,6,6,6,3,1,3,2,2,3,5,4,4,7,4,4,4,4,3
+63,1,british,4.0,Allotment,1,2,4,4,3,3,3,3,4,4,4,4,4,5,4,5,4,5,6,6,6,6,3,1,1,2,1,2,6,6,6,6,3,3,3,3,3
+63,1,British,12.0,"Walks, cycling, gardening, allotment",1,2,5,5,4,4,4,4,5,4,1,2,3,4,5,5,5,4,6,6,6,6,3,2,1,3,1,3,6,6,5,5,4,3,3,3,3
+72,2,British,10.0,"Tennis, walking (hill walking and straight walking), gardening, cycling, skiing, swimming, sitting,  sunbathing",1,1,3,4,3,3,4,3,4,2,3,3,3,4,2,4,3,1,4,4,4,5,3,1,2,1,1,3,5,5,5,5,2,2,2,2,2
+65,2,British,25.0,"Walks, gardening",1,1,4,4,3,4,4,4,5,4,2,2,5,4,3,5,4,4,6,5,6,5,3,1,2,2,1,3,5,6,6,5,4,3,4,4,2
+60,2,English,35.0,"Walks, Gardening, Allotment, Park, Making animal/insect/bird shelters",1,1,4,4,4,4,3,2,5,3,3,2,5,5,5,5,5,5,5,2,5,3,3,3,3,3,1,3,1,2,2,2,3,4,4,4,3
+78,2,British,6.0,"allotment, community gardening, In Bloom work, occasionally my own garden!",1,1,4,5,4,4,4,5,4,5,2,1,2,5,5,5,5,5,5,6,5,6,3,2,2,3,1,3,6,5,6,6,4,4,4,3,3
+61,2,British,25.0,Gardening,1,1,5,5,4,5,4,3,4,3,2,1,5,5,5,5,5,5,4,4,4,4,3,1,2,2,1,3,7,6,6,5,4,4,4,4,3
+53,2,British,3.0,Allotment and gardening,1,1,4,1,3,5,2,4,5,5,1,2,1,4,1,4,1,1,2,5,4,4,3,2,2,2,2,3,7,7,7,7,4,4,4,4,3
+62,1,British,14.0,walking running gardening,1,2,3,4,3,4,4,4,4,3,4,3,4,5,5,5,5,5,6,6,6,6,3,1,1,3,1,3,5,5,5,5,4,3,3,3,2
+51,1,English,4.0,walking cycling gardening,1,2,3,4,4,4,4,4,5,4,3,3,3,5,4,5,5,4,5,6,5,6,3,2,3,1,1,3,6,6,5,5,3,3,3,3,2
+57,1,British,10.0,Gardening,1,1,4,4,4,4,4,4,4,4,3,4,5,4,5,5,5,5,6,2,6,5,3,2,2,1,3,3,5,5,5,4,3,3,4,4,3
+65,2,White British,6.0,"walking, gardening at home and the allotment",1,1,3,5,4,4,4,3,4,3,1,1,4,5,5,5,5,5,6,6,6,7,3,1,2,3,2,3,5,5,5,5,3,4,4,3,3
+76,2,British,5.0,"walking, gardening",1,2,5,4,4,4,3,3,5,3,2,3,4,4,5,4,5,5,4,4,4,5,3,2,2,3,2,2,5,6,6,5,4,4,4,4,2
+71,2,British,40.0,"Walk, gardening, allotment and at home",1,1,4,4,4,4,4,4,4,5,3,2,4,5,5,5,5,5,6,6,6,6,3,3,2,2,1,3,7,7,7,7,3,3,3,3,3
+69,1,English,20.0,"Gardening, Walking",1,1,4,5,5,5,5,4,5,4,2,1,2,5,4,5,4,4,6,5,6,5,3,2,2,3,2,3,4,4,4,4,4,4,4,4,3
+58,2,British,14.0,"Walking, allotmenting, gardening animal husbandry",1,1,4,4,4,4,4,4,4,3,1,2,4,5,5,5,5,5,7,7,7,6,3,1,1,3,1,3,7,7,7,7,4,4,4,4,2
+78,2,British,10.0,Gardening walks sightseeing when on holiday,1,1,5,5,5,5,5,5,5,3,3,3,3,3,3,3,3,3,7,7,7,7,3,1,2,3,3,3,6,6,6,6,3,3,3,3,3
+64,2,British,10.0,"Gardening at home and on allotment, walking, sitting in garden, watching garden wildlife, visiting open gardens",1,2,4,4,4,5,5,5,5,4,2,2,4,4,3,5,5,5,6,6,6,6,3,1,1,3,1,3,6,6,6,6,3,3,3,3,3
+64,2,UK,5.0,"walking, cycling, gardening, visiting gardens and nature reserves",1,1,3,3,3,4,4,3,4,2,3,3,5,2,4,5,4,4,5,3,5,5,2,1,1,2,3,2,4,6,5,5,3,3,4,3,3
+56,2,British,20.0,allotment,1,2,3,3,2,4,3,4,4,2,3,3,2,5,2,4,3,4,6,5,6,5,3,2,2,3,2,3,5,4,6,5,3,4,4,3,3
+41,2,British,8.0,"Gardening, allotmenting, running, horse riding, walking, cycling",1,1,4,4,4,5,5,3,5,4,2,2,4,5,5,5,5,4,5,5,5,4,3,2,2,3,1,3,6,6,6,6,4,4,4,3,3
+47,2,British,10.0,"walking, running, gardening, allotmenting",1,1,4,5,3,4,4,5,4,4,2,2,4,4,4,5,5,5,7,6,6,6,3,1,1,3,1,2,6,5,4,5,3,3,3,3,2
+50,1,British,8.0,"allotment, cycling, walking, home garden",1,1,4,4,3,4,5,4,5,4,2,2,4,5,4,5,5,4,7,6,6,6,3,3,3,3,1,3,7,5,4,5,4,4,4,4,3
+73,1,British,10.0,Alllotment walking gardening,1,1,5,4,4,4,5,4,4,3,2,1,2,5,4,5,4,4,6,6,6,6,3,1,1,1,1,3,6,6,7,6,4,3,3,4,3
+55,1,english,5.0,gardening/allotment,1,1,3,4,2,3,3,3,3,3,4,3,1,5,5,4,5,5,6,6,6,5,2,1,1,1,2,2,6,6,6,6,2,2,3,3,2
+78,1,british,1.0,Gardening,1,2,3,3,4,4,4,4,4,3,4,3,1,3,3,4,3,3,6,6,6,6,2,2,2,2,2,3,4,4,4,4,3,3,3,3,3
+74,2,British,10.0,"walking, gardening, allotment",1,2,5,4,3,4,4,4,5,4,2,1,5,5,5,5,5,5,6,6,6,7,3,2,2,3,1,2,7,6,6,7,4,4,4,4,3
+37,1,British,30.0,"Visiting gardens, walking, cycling, allotment",1,2,4,4,4,5,5,3,5,4,2,2,4,5,3,5,4,4,6,5,5,2,3,2,2,3,2,3,5,5,3,4,4,4,4,4,4
+85,1,Brit/eng,6.0,"allotmenting, gardening walks",1,1,4,3,4,4,4,4,4,4,5,2,4,4,4,5,5,5,6,6,6,6,3,2,2,2,2,3,5,5,5,5,4,4,4,3,3
+31,2,British,10.0,"Walks, gardening",1,2,5,5,4,4,5,5,5,5,2,3,4,5,5,5,5,4,6,6,6,6,3,1,1,2,1,3,5,5,4,5,4,3,4,3,4
+64,1,UK,12.0,"Hikimg, gardening, dog walking",1,2,4,4,4,5,5,4,5,3,3,2,4,5,4,5,5,4,5,6,6,6,3,1,1,3,1,3,4,5,4,5,3,3,4,3,3
+53,2,British,20.0,"walking, running, cycling, allotment gardening, gardening",1,1,4,4,4,4,4,4,4,5,2,2,5,5,5,4,4,4,6,6,6,6,3,1,1,3,1,3,6,6,6,6,4,4,4,4,4
+57,2,British,12.0,"gardening, allotment gardening, dog walking",1,1,4,5,3,4,4,4,5,4,3,4,5,5,5,5,5,4,6,6,7,6,3,1,3,2,1,2,5,4,5,7,4,4,3,3,3
+50,1,british,40.0,cutting grass tending hedges pruning trees. all on the allotment growing veg on my alltoment and tending it makeing sure the soil is well cultivated and ready for next crop,1,1,4,5,4,4,5,4,5,4,4,4,4,5,3,4,4,4,7,6,6,6,3,1,2,3,2,2,5,2,2,2,4,4,4,4,3
+41,2,British,10.0,Walking and gardening,1,2,4,3,4,5,5,5,5,4,3,3,4,5,3,5,4,4,5,5,5,5,2,1,1,1,1,3,5,5,5,5,3,4,4,4,3
+78,1,british,14.0,nature trail - allotment  walks,1,1,4,5,4,3,4,4,4,2,3,1,4,5,5,5,5,5,6,6,6,6,3,2,2,2,1,3,5,6,5,6,3,3,3,3,2
+70,1,Scottish,20.0,Walks gardening allotment cycling,1,2,3,4,3,4,4,4,3,3,2,2,3,5,1,5,5,5,7,6,6,6,3,3,1,2,1,3,5,5,5,5,4,4,2,4,3
+60,1,british,30.0,"Walking dogs, smallholding (sheep & chickens), allotment.",1,2,3,4,4,4,5,3,5,5,2,1,3,4,1,4,4,4,4,6,4,4,3,3,3,3,1,3,6,6,6,6,3,3,4,3,3
+77,1,British,20.0,Walking - gardening - allotment - Bowls Competitions,1,1,4,4,3,4,4,3,5,3,4,2,4,5,1,5,5,4,6,6,6,5,3,2,3,3,2,3,4,5,3,5,3,3,4,4,3
+44,1,British,40.0,"Gardening,allotment,walking",1,1,5,5,5,5,0,3,5,4,3,4,0,5,3,4,4,4,7,6,7,5,3,1,2,1,2,2,4,3,3,3,3,3,3,3,3
+51,1,British,8.0,"walking, gardening",1,2,4,3,3,3,3,3,3,3,4,4,5,5,3,5,5,5,6,6,6,5,3,1,2,3,2,3,6,6,6,4,3,3,3,3,3
+58,2,British,10.0,"Running, gardening, allotmenteering",1,2,4,3,3,3,4,3,5,3,1,1,5,5,5,5,5,5,6,5,5,5,1,2,1,1,1,2,5,5,5,5,3,3,4,4,4
+36,1,British,8.0,"Gardening, cycling, allotments",1,2,4,4,4,4,4,4,5,4,1,1,4,5,3,5,5,5,6,6,6,4,3,1,1,2,1,3,7,6,7,7,4,4,3,3,2
+50,2,British,6.0,Walks & allotment,1,1,5,5,5,5,5,5,5,4,1,1,3,5,4,5,5,4,6,6,6,6,3,2,1,3,1,3,7,7,6,7,4,4,4,4,3
+71,1,Britsh,25.0,Gardening,1,1,4,4,5,4,5,4,5,4,2,1,5,4,3,5,3,4,5,4,4,4,3,2,2,2,1,3,5,5,5,5,4,4,4,4,3
+60,1,UK,2.0,"Walking, maintaining allotment",1,1,3,3,2,3,4,4,4,3,4,4,4,3,4,4,4,4,4,5,5,5,2,3,3,2,2,2,5,5,4,4,4,3,4,3,3
+70,1,british,8.0,"walking, gardening [specifically, growing fruit, vegetables and flowers on my allotment",1,1,3,4,4,4,4,4,5,4,4,4,3,4,3,5,4,3,6,6,7,5,3,2,2,2,1,3,5,6,5,6,4,4,3,3,3
+70,2,English,16.0,walking and allotment gardening.,1,1,3,3,3,3,3,3,4,3,3,2,5,5,5,5,5,4,4,6,6,4,1,3,3,1,3,1,2,2,2,2,3,3,3,4,2
+68,2,british,8.0,"Gardening, allotments,parks, walks",1,1,5,5,5,5,5,5,5,5,2,2,2,4,4,5,3,4,5,5,5,5,3,2,1,3,1,3,6,6,6,6,4,4,3,3,3
+66,2,british,14.0,"walking, gardening, allotment",1,1,4,4,3,4,4,4,4,3,3,3,5,5,5,5,5,5,5,5,5,6,3,2,2,3,2,3,6,6,5,5,3,3,4,3,4
+69,2,English/UK,20.0,"gardening, walks, travel abroad",1,1,4,4,4,4,4,4,4,4,2,2,5,4,4,5,5,5,6,6,6,6,3,2,1,2,2,3,6,6,6,6,3,3,4,4,3
+57,1,Dutch,25.0,"walking, gardening, farm work",1,1,4,3,3,4,4,4,4,5,2,2,4,5,4,4,4,4,6,6,6,6,3,2,1,2,1,3,4,4,3,4,3,3,3,3,3
+70,2,British,10.0,Gardening,1,1,4,4,3,3,4,3,5,4,2,1,5,5,5,5,5,5,6,4,5,4,3,2,2,1,2,2,3,3,2,2,3,3,4,4,3
+60,2,British,7.0,"Gardening, walking, allotmenteering",1,2,3,3,3,3,3,3,3,1,2,2,4,5,4,4,4,4,6,6,6,6,3,2,2,3,2,3,4,4,3,4,3,3,3,3,2
+62,2,UK,10.0,"walking, gardening, allotment",1,2,4,3,4,4,4,3,4,3,1,1,5,5,5,5,5,5,5,3,4,3,3,1,1,2,1,2,5,5,5,5,4,4,4,4,3
+66,1,Eurpan,14.0,"Allotment, gardening, walks and conservation work.",1,1,3,4,4,4,4,3,4,4,2,2,4,5,5,5,5,4,7,6,7,5,3,2,2,3,1,3,4,5,5,6,4,3,3,4,3
+59,2,British,10.0,"Walking, volunteer information assistant at one of Epping Forest visitor centres, allotment",1,2,4,4,4,4,4,4,4,4,2,2,4,4,3,5,4,4,6,6,6,6,3,2,2,3,1,3,5,4,4,5,3,3,3,3,2
+52,1,English,15.0,"Gardening, walking the dog",1,1,5,4,4,2,4,4,4,4,2,2,5,4,4,5,5,5,6,6,6,7,3,1,1,3,1,3,4,6,6,6,4,4,4,4,4
+40,1,British,20.0,"Cycling (commuting), Allotment",1,2,4,4,3,4,4,4,3,3,1,1,3,4,2,4,4,3,3,3,3,3,3,1,1,2,2,3,6,6,6,6,2,3,3,3,2
+30,2,white british,5.0,trips to the park walks and weather permitting the allotment and beach,1,2,3,3,3,3,2,2,2,1,5,5,4,4,3,4,2,2,4,4,4,4,2,3,2,1,3,1,1,1,3,1,1,3,3,3,3
+69,1,British,14.0,"Allotment, walking, visit the coast, voluntary helper at country park",1,1,4,4,4,3,4,5,5,4,3,2,5,5,3,5,3,3,6,4,6,4,3,1,1,3,1,3,6,7,7,6,3,4,4,4,3
+67,2,British,12.0,"Walking, gardening",1,2,4,3,4,3,3,4,4,4,2,2,4,4,3,4,4,5,6,6,6,6,3,1,1,3,1,3,5,5,5,5,3,3,3,3,3
+65,2,British,10.0,"Walking, gardening, bird watching, wildlife surveys",1,1,5,4,4,4,5,5,5,3,3,3,3,5,5,5,5,5,4,4,6,5,3,1,1,1,1,3,7,7,7,7,4,4,4,4,3
+42,1,British,20.0,Allotment,1,1,2,2,3,2,3,2,3,1,5,5,5,4,3,4,3,3,6,5,6,5,1,3,3,2,2,1,1,1,4,2,3,1,3,3,2
+57,1,British,40.0,"Walking my springer spaniel, allotmenteering",1,1,2,4,4,4,4,3,4,5,4,5,5,5,5,5,5,5,7,7,7,7,3,1,2,3,2,3,6,7,7,7,4,4,4,4,4
+60,2,British,4.0,Walks and Gardening at the Allotment,1,1,4,5,5,4,4,5,5,3,3,1,4,5,3,5,5,5,6,6,6,6,3,1,1,3,1,3,7,7,6,7,3,3,3,3,3
+51,2,British,3.0,Walks gardening,1,1,4,4,3,4,4,4,4,4,2,3,5,5,2,5,5,4,3,3,5,4,3,1,1,3,2,3,5,6,5,6,3,4,4,3,3
+63,2,British,16.0,"Gardening, allotment, walking",1,1,2,4,4,3,4,4,5,4,2,2,4,5,5,5,5,4,6,6,6,6,3,2,2,2,1,3,5,5,5,6,4,4,4,3,3
+67,2,English,30.0,"Allotment, garden,countrywalks",1,1,4,5,5,4,4,5,5,3,3,4,1,1,1,5,5,5,7,5,7,6,3,2,2,2,2,3,6,6,5,4,4,4,4,3,3
+39,1,British,4.0,Allotment. walking.,1,2,4,3,3,4,4,3,3,4,2,4,4,4,5,5,4,4,6,6,6,6,3,2,2,1,3,3,5,4,5,5,3,3,3,3,3
+42,1,British,7.0,Gardening. Chicken keeping. Dog walking  camping. Allotment work.,1,2,4,5,5,4,4,5,5,5,2,4,5,5,5,5,5,5,7,7,7,7,3,1,1,2,1,3,6,6,6,6,4,4,4,4,3
+58,2,English,8.0,Gardening,1,1,3,3,4,3,3,4,4,3,3,3,4,4,3,4,4,4,5,5,4,5,2,3,3,2,1,2,6,4,1,3,3,3,2,2,3
+53,2,british,20.0,Walking and allotmenting,1,2,4,4,3,4,4,4,5,3,3,3,5,5,4,5,5,4,4,4,4,4,3,1,1,3,1,3,5,5,5,5,3,3,4,3,1
+53,2,Manx,14.0,"Allotment Glen walking, road/beach walking",1,2,5,5,3,5,5,4,5,4,4,3,3,4,1,4,4,4,5,5,6,6,3,2,3,1,2,3,2,2,3,1,4,4,4,3,4
+61,2,british,5.0,walking gardening allotmenting,1,1,4,4,4,4,4,4,4,3,4,4,5,4,4,4,4,4,6,6,6,6,2,1,1,2,1,2,6,6,6,6,3,3,3,3,3
+55,1,British,45.0,Garden. Walks.Golf. allotment,1,2,3,2,2,2,2,2,2,1,4,2,5,4,4,5,5,4,1,1,1,1,1,3,3,3,3,1,1,1,1,1,2,2,4,4,4
+58,2,English,10.0,"Walking, gardening, allotmenting,",1,2,4,4,4,4,4,4,4,3,2,,5,5,5,5,5,5,7,7,7,7,3,1,1,3,1,3,7,7,0,7,4,3,3,3,3
+52,1,British,50.0,"Gardening, walking, fishing, bird watching",1,1,5,5,4,5,5,2,5,3,2,1,4,4,3,5,5,4,4,4,6,6,3,3,3,3,3,3,1,1,1,3,4,4,4,4,3
+55,2,British,20.0,walking gardening,1,1,3,4,3,3,3,4,4,3,3,3,3,4,5,5,5,5,6,6,7,6,3,2,1,2,1,2,6,6,6,6,3,3,3,2,2
+68,2,English,8.0,"Walking, gardening at home and on allotment, cycling.",1,2,5,5,5,5,5,5,5,4,2,2,2,4,3,2,3,3,6,5,6,5,3,1,1,2,1,3,6,7,7,7,4,3,3,3,3
+67,2,british,10.0,walking gardening working on allotment,1,2,4,5,3,4,5,5,5,4,4,4,2,4,3,5,3,4,7,6,6,5,2,1,1,2,1,2,7,6,6,6,3,4,4,3,2
+27,2,British,4.0,"Walks, allotment",1,2,4,4,3,3,3,4,5,3,4,5,2,2,4,4,4,3,6,4,5,2,3,2,3,2,2,2,4,5,5,4,3,3,3,3,3
+49,2,Uk,25.0,Walks and gardening,1,1,5,5,4,4,4,4,4,4,3,3,4,5,5,5,5,5,6,6,6,6,3,1,1,2,2,3,5,5,5,5,4,4,4,4,3
+62,2,British,6.0,Gardening. Walking. Cycling.,1,1,5,4,4,5,4,5,5,4,2,2,4,5,5,5,5,4,7,7,7,6,3,1,1,3,1,3,6,6,5,6,4,4,4,3,2
+58,2,english,10.0,walking the dog gardening,1,2,4,4,4,4,5,4,3,1,5,4,1,4,4,4,4,4,2,3,2,2,1,3,3,1,3,1,1,1,1,1,2,2,1,2,1
+76,2,British,14.0,Gardening - allotment -,1,1,4,4,3,3,4,4,4,3,3,4,2,4,3,5,4,4,6,5,6,6,3,2,2,3,2,3,5,5,6,6,3,3,2,3,2
+55,1,British,5.0,"Gardening, keeping hens, allotment, walking, photography.",1,2,4,4,4,4,4,3,4,4,2,2,4,4,2,4,4,4,3,3,3,3,3,2,2,3,2,3,5,5,5,6,4,4,4,4,3
+56,2,White British,7.0,"Dog walking, gardening, planting in greenhouse & repotting then transferring plants to the allotment",1,2,4,4,4,4,4,3,4,4,3,3,3,4,5,5,5,5,4,4,5,5,3,2,1,3,2,3,4,4,4,5,4,4,4,4,3
+52,2,British,5.0,"Gardening,dog walking",1,1,1,4,3,4,4,5,3,3,2,2,3,5,5,5,5,5,0,0,0,0,3,2,1,2,1,2,6,6,6,6,3,3,3,3,3
+65,2,British,7.0,"Walks , looking after chickens and gardening",1,1,5,5,4,4,4,4,4,4,3,3,4,5,4,5,5,5,6,4,4,4,3,1,1,2,1,3,6,5,5,5,4,4,4,4,3
+38,2,Scottish,40.0,Im doing an NQ in Gardening and Landscape i have my own allotment and i walk regular in the country and the beaches,1,2,5,4,5,3,3,3,5,2,2,2,5,5,3,5,5,4,6,6,6,7,3,1,3,3,1,3,7,7,3,3,3,1,3,4,1
+39,2,White british,25.0,Dog walking ... and gardening . Allotment,1,2,3,3,2,3,4,4,4,1,5,5,5,4,3,4,3,3,6,4,5,6,1,2,2,1,3,3,4,5,4,3,3,3,3,3,3
+39,2,British,29.0,"Gardening in my own garden & veg garden, working as a gardener, daily dog walk,",1,2,4,5,4,4,4,4,5,3,2,2,4,5,5,5,5,5,6,6,6,6,3,1,2,3,2,3,6,7,7,7,4,4,4,4,3
+33,2,Swedish,11.0,gardening,1,2,1,3,2,2,5,2,4,1,1,1,3,5,5,5,5,5,2,4,2,4,1,3,3,1,3,2,4,5,7,1,1,2,4,4,1
+39,2,British,4.0,"Dog walking, gardening, allotment",1,2,3,4,3,3,3,3,3,3,2,3,5,5,4,5,5,5,4,4,4,4,3,1,1,3,1,3,7,7,7,7,2,1,3,3,2
+32,2,British,10.0,"Walks, allotment gardening, home gardening",1,2,4,4,4,3,4,3,4,3,3,2,5,5,5,5,5,5,6,5,6,5,3,2,2,3,3,1,5,6,6,6,4,4,4,4,3
+40,2,British,40.0,"Walks, allotment, fishing, gardening",1,2,4,5,3,4,3,2,4,4,3,4,4,5,5,5,5,5,4,4,4,4,3,3,3,3,1,3,1,3,3,3,3,4,4,4,3
+68,1,british,6.0,walking allotment,1,1,5,4,4,4,4,3,4,4,5,4,5,4,4,4,3,3,3,3,3,3,3,3,3,3,1,3,3,4,2,3,3,3,3,3,2
+55,2,British,8.0,Allotment growing,1,1,5,5,5,3,5,3,5,5,2,1,3,5,5,5,5,5,6,6,6,6,,1,,,0,0,7,7,7,7,3,3,3,3,2
+73,1,English,30.0,Allotment,1,1,1,4,5,5,4,4,5,3,3,3,4,4,1,4,4,3,6,6,6,6,3,1,1,3,1,3,4,4,4,4,4,4,4,3,2
+67,1,English,6.0,Allotment working,1,1,3,4,4,4,4,2,4,3,5,5,5,4,5,5,5,5,2,5,5,2,2,1,1,2,3,1,1,5,7,6,4,4,4,4,2
+60,1,British,40.0,"Gardening, smallholder-ing, walking the dogs, surveying wildlife",1,2,4,5,4,4,5,5,5,4,2,1,4,5,5,5,5,5,6,6,6,6,3,2,2,3,1,3,6,6,6,6,3,3,3,4,3
+68,1,British,30.0,"Gardenin, walking,conservation volounteer, photographer  = wildlife,landscapes",1,2,4,5,4,4,5,5,5,5,3,2,4,5,5,5,5,5,6,6,6,6,3,2,2,2,2,3,6,6,6,5,4,4,4,4,1
+60,1,English,55.0,"Gardening,walking estate maintenance",1,2,4,4,3,1,2,4,4,3,3,3,3,4,3,3,5,5,1,5,4,6,3,1,3,3,2,3,3,7,7,7,3,3,3,3,2
+62,1,U.K.,2.0,"Gardening, walking , running",1,1,4,4,3,4,4,5,5,4,2,2,3,5,3,5,3,3,5,4,5,1,3,1,2,2,2,3,7,7,7,7,4,4,4,4,4
+42,2,british,10.0,"commuting to work over town moor and through a park, walks in the countryside, working on my allotment",1,2,4,4,4,3,3,4,4,4,3,2,5,5,5,5,5,4,6,6,6,6,3,1,1,3,1,3,6,6,6,6,4,4,4,4,4
+56,2,French,10.0,mainly gardening,1,2,3,4,4,4,4,3,4,4,4,4,4,3,1,2,3,2,4,4,4,4,3,2,2,3,1,3,6,6,6,6,4,3,3,4,3
+69,2,British,15.0,"Walking, gardening.",1,2,5,3,3,4,2,3,3,4,4,4,4,3,3,4,3,4,5,5,5,5,3,1,2,3,2,3,3,3,3,3,3,3,3,3,2
+39,2,British,20.0,Walks. Gardening. Foraging,1,2,5,5,5,5,5,5,5,5,2,2,5,5,5,5,5,5,6,6,6,6,3,1,1,1,1,3,5,6,6,7,4,4,4,4,4
+44,2,British,10.0,"Allottment work, walks in woodlands and countryside",1,2,5,5,5,5,5,5,5,4,2,2,5,5,5,5,5,5,7,6,7,7,3,1,1,3,1,3,7,7,7,7,4,4,4,4,3
+64,2,British7,7.0,"Gardening walking dog, walking for pleasure",1,2,3,3,4,4,4,3,5,4,3,2,4,4,5,5,5,5,6,3,4,5,3,2,3,1,2,3,2,2,2,2,4,4,4,4,3
+64,2,British,8.0,"Gardening, walking birdwatching",1,2,4,4,4,4,4,4,4,4,3,4,5,4,5,5,5,4,6,5,6,5,3,2,1,3,1,3,6,5,6,6,3,3,3,3,2
+50,2,British,3.0,Gardening,1,2,4,4,3,4,4,4,4,3,4,4,4,4,5,5,5,4,6,6,6,5,2,1,1,3,1,3,4,4,5,3,3,3,4,4,3
+69,2,Polish,10.0,Gardening,1,2,3,3,3,4,5,3,5,4,2,1,3,5,5,5,5,5,3,3,3,2,2,3,3,1,3,1,2,3,1,2,3,4,4,4,3
+66,1,British,6.0,Allotment,1,2,4,4,3,3,3,2,5,5,2,2,4,5,3,5,5,5,4,4,4,4,3,2,2,3,1,3,7,7,4,4,4,4,4,4,3
+56,1,White british,13.0,"Walking, cycling. Allotment",1,2,3,4,3,3,3,2,3,4,2,2,5,5,4,4,4,5,5,5,4,3,3,1,2,3,1,3,5,6,6,4,4,4,4,4,4
+55,1,Uk white british,12.0,"Walks, cycling, alotment",1,2,5,5,5,5,5,5,5,5,2,2,5,5,5,5,5,5,6,6,6,6,3,2,2,2,2,3,5,5,5,5,4,4,4,4,4
+65,2,British,10.0,Growing veg and poultry keeping,1,1,3,3,2,4,3,3,3,3,1,1,4,3,5,5,5,5,6,5,5,1,2,3,3,1,2,1,2,2,2,2,3,3,3,3,2
+60,1,british,8.0,"Walking, Fishing, Shooting, Allotment",1,2,4,4,4,4,4,4,5,5,4,4,3,3,5,5,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,2,british,20.0,gareening/walking/birdwatching,1,2,4,4,4,4,4,3,5,4,2,2,5,4,3,5,5,5,6,5,6,4,3,2,2,3,1,3,5,5,6,6,4,3,3,3,3
+32,1,British,3.0,Gardening/Allotment,1,2,4,4,3,3,3,4,4,2,4,5,3,4,4,4,4,4,5,5,5,5,3,2,2,3,1,2,4,4,5,5,3,3,3,3,3
+54,2,British,21.0,Walking gardening sitting working,1,2,4,3,4,4,4,4,5,4,2,1,5,4,4,5,5,5,6,7,7,6,3,1,1,3,1,3,0,0,0,0,0,0,0,0,0
+60,1,Uk,4.0,"Walk, gardening, allotment, kayaking, cycle",1,2,4,4,2,3,4,3,3,4,2,2,5,5,1,4,5,4,6,5,6,5,3,1,1,3,1,3,6,6,6,6,4,4,3,4,3
+65,2,English,15.0,Dog walking; gardening and allotment,1,2,5,4,3,4,4,4,5,4,4,5,4,5,5,5,5,5,3,2,2,3,3,1,1,3,1,3,7,7,7,7,4,4,4,4,3
+48,1,Scottish,10.0,"allotment, gardening, walking",1,1,4,4,4,4,4,3,5,4,4,4,5,4,2,5,4,5,6,6,7,6,3,1,2,3,1,3,6,5,4,4,4,4,3,4,4
+48,2,British,8.0,"Allotment, walks, gardening, photography",1,1,3,4,3,4,4,3,4,3,3,4,5,5,4,5,5,4,4,5,4,5,3,2,2,3,1,3,5,5,5,5,3,3,4,3,3
+33,1,Britisg,5.0,Allotment gardening and cyxling,1,1,3,2,2,3,4,2,2,4,4,5,5,4,5,4,5,5,5,3,5,4,3,3,3,1,3,2,3,3,2,2,3,4,4,4,4
+37,2,British,10.0,Walking/ gardening,1,2,4,5,4,4,4,5,5,4,1,1,5,4,5,5,5,5,6,6,6,6,3,1,1,3,1,3,6,6,6,6,3,4,3,3,3
+29,2,British,5.0,"Allotment, walks in the woods, walks in the park",1,2,5,3,4,4,4,5,5,3,2,2,4,4,4,5,5,4,5,6,5,6,2,2,3,3,2,1,6,6,6,6,4,4,4,4,3
+28,1,British,17.0,"Walks, gardening, allotment and gardening in school time with my class.",1,1,5,4,4,4,4,4,4,3,2,2,3,4,4,5,5,5,7,7,7,7,3,1,1,1,1,3,5,7,7,7,3,4,4,4,3
+41,2,British,5.0,Allotment,1,1,4,4,5,4,5,4,4,4,2,1,5,5,5,5,5,5,6,5,7,6,3,2,3,3,2,2,5,4,4,4,4,4,4,4,4
+42,2,British,20.0,"Walks, gardening, allotment, work & study outside in suitable weather",1,2,4,4,4,4,4,3,4,4,2,2,4,4,4,5,4,3,3,3,4,4,3,2,2,3,2,3,5,5,5,6,3,3,3,3,3
+47,1,Irish,20.0,"Gardening, sowing seed, growing plants, food, flowers, etc",1,2,4,4,4,4,4,4,4,4,2,2,4,5,4,4,5,4,6,6,6,6,3,2,3,3,1,3,5,3,4,4,3,3,3,3,3
+54,2,British,6.0,Walks and gardening,1,2,3,2,3,2,2,2,2,2,2,2,5,4,3,5,4,3,1,1,1,1,2,3,3,3,1,3,4,3,3,3,1,1,1,2,2
+48,2,British,4.0,"Walking my dog, gardening, allotment work, outdoor play-part of my job",1,2,3,4,3,4,4,5,5,3,3,3,3,4,4,5,5,4,1,1,1,1,3,1,1,2,1,3,7,7,7,7,4,4,4,4,3
+39,2,Welsh,10.0,"allotment, walks",1,2,4,4,4,4,4,4,4,3,4,5,1,4,3,4,4,3,6,6,5,6,1,2,1,1,3,2,2,3,3,3,3,3,3,3,2
+79,2,British,6.0,"Gardening, occasional walks",1,1,2,4,3,4,4,5,5,4,2,1,3,5,4,5,4,4,6,5,6,5,3,1,1,2,1,3,6,5,6,6,3,3,3,4,2
+67,2,british,8.0,"Allotment. Own garden. Local community edible bed. ""Friend"" of two local parks/ green space - working parties. litter picking. walking",1,2,3,4,4,3,4,4,5,3,3,3,2,5,5,5,5,4,6,6,6,5,3,1,1,2,1,3,6,6,6,6,3,3,3,3,3
+60,2,british,3.0,walking and gardening,1,1,4,3,4,4,4,4,3,3,3,3,5,5,5,5,5,5,6,6,6,6,3,1,1,3,1,3,5,5,5,5,3,3,3,3,2
+23,2,English,3.0,"Walks, dog walking, gardening, visiting woodlands",2,2,4,5,4,5,4,3,4,4,2,2,4,5,3,5,5,5,5,6,6,6,3,1,1,3,1,3,6,7,6,6,3,4,4,4,1
+21,1,British,4.0,"Walking, gardening, clay pigeon shooting",2,2,3,5,5,5,5,1,4,2,2,2,4,5,1,5,4,3,6,6,6,6,1,1,1,1,2,1,1,5,5,2,4,3,4,4,4
+20,2,British,10.0,"Walks, stately home gardens, running",2,2,3,3,4,2,2,2,2,3,3,2,2,2,1,4,4,4,3,2,3,5,1,1,1,1,3,1,3,5,5,5,2,2,2,2,2
+63,2,British,6.0,"Walking, gardening",2,2,3,3,3,2,3,3,3,3,3,3,2,4,5,5,5,5,6,6,6,6,2,2,2,1,1,2,4,4,4,4,2,3,3,3,3
+66,1,British,7.0,"Gardening, looking after animals",2,2,4,3,4,5,5,4,4,4,3,2,3,4,3,5,5,5,4,5,7,6,3,1,1,3,2,3,5,5,6,4,4,4,3,3,4
+34,2,British,4.0,"walking, gardening, taking photos",2,2,3,4,3,3,3,3,3,2,1,1,5,4,5,5,5,4,4,4,6,6,3,1,1,2,1,1,6,6,6,6,3,3,3,3,3
+22,2,British,2.0,Walks,2,2,3,3,2,3,3,3,2,2,2,2,4,3,3,4,3,3,4,5,4,4,3,1,1,3,1,3,6,6,6,6,3,4,3,3,1
+21,1,British,2.0,Some light walking,2,2,4,5,1,3,3,4,5,1,3,5,4,5,1,4,4,1,7,6,6,6,1,3,3,1,3,1,7,7,7,7,2,3,4,4,4
+28,2,Scottish,28.0,"Walks, gardening, kids out on nature trails",2,2,3,3,3,3,4,4,4,2,2,2,5,4,5,5,5,5,7,7,7,7,2,2,3,2,2,2,4,4,6,3,4,4,4,4,3
+60,2,English,3.0,"Gardening, walking",2,2,4,4,3,4,3,3,4,3,3,2,1,4,4,4,3,3,3,2,3,4,3,3,3,2,3,1,3,3,3,3,3,3,3,3,2
+72,2,English,11.0,Gardening,2,2,2,1,1,5,2,1,1,1,0,4,4,5,4,5,4,4,2,2,2,2,,3,3,1,2,3,2,2,2,1,1,1,1,1,1
+50,1,English,10.0,Dog walks. Mountain biking. Climbing. Allotment,2,2,3,4,3,3,4,4,4,4,4,2,4,4,5,5,5,5,1,1,1,1,3,2,3,2,2,2,4,3,3,4,3,3,4,3,2
+52,2,Scottish,3.0,Gardening mainly,2,2,4,4,4,3,4,3,4,3,4,4,3,4,5,5,4,4,6,4,6,5,2,2,2,1,2,2,2,2,3,4,3,3,3,3,2
+26,2,British,20.0,"Gardening, Camping, Sitting and enjoying! :)",2,2,3,3,4,3,3,2,3,1,3,3,5,4,5,4,5,4,4,3,3,3,3,3,3,3,2,1,5,3,4,3,4,4,3,3,2
+60,2,British,25.0,"I live in a very rural area, gardening, walking, living, time with hens, listening to owls, watching birds from window",2,2,4,4,4,4,4,4,4,4,3,2,4,5,5,5,5,5,6,5,6,5,3,2,2,3,1,3,6,6,7,6,3,3,3,3,2
+64,2,British,8.0,Allotment and gardening,2,1,4,4,4,3,4,4,5,4,2,2,2,5,4,5,4,4,6,6,6,6,3,1,1,1,1,3,7,7,7,7,4,3,4,3,3
+42,2,British,30.0,"walking, gardening, birdwatching,",2,2,5,5,5,4,4,4,5,3,4,5,5,5,5,5,5,5,4,4,4,4,3,2,3,3,1,3,7,7,7,7,3,3,4,4,2
+51,2,British white,2.0,Small Allotment and garden,2,2,3,3,3,5,5,3,5,3,2,2,3,5,3,5,3,3,6,6,6,6,3,1,2,2,1,3,4,4,3,3,4,4,4,4,3
+20,2,English,2.0,Walks around the park,2,2,3,4,3,4,4,3,5,4,2,3,4,4,3,4,2,4,5,6,7,5,3,1,2,1,3,3,5,4,6,5,4,3,4,3,2
+65,2,british,6.0,"walks, gardening",2,2,4,4,4,4,4,4,5,4,3,3,4,3,4,4,4,4,5,5,5,5,3,1,1,2,1,3,5,5,6,6,4,4,4,4,3
+35,2,British,20.0,"Walks, gardening, hikes",2,2,4,4,3,3,3,3,4,4,3,5,4,4,5,5,5,5,5,5,5,5,3,2,2,3,1,3,5,5,5,5,4,4,4,4,2
+55,2,british,20.0,gardening,2,2,5,4,4,4,4,3,5,1,2,1,5,5,5,5,5,5,4,4,4,4,3,2,3,3,1,3,6,6,5,5,3,4,4,4,1
+65,1,Irish,13.0,Gardening and golf,2,2,5,4,5,4,4,4,4,4,2,2,1,4,3,5,5,4,6,2,6,4,3,2,3,1,2,3,5,4,3,3,4,3,3,3,2
+29,2,British,3.0,"Jogging, gardening, walking",2,2,3,3,2,2,3,2,4,3,3,3,5,3,1,3,5,4,4,3,3,3,2,2,3,2,2,3,4,5,7,5,2,3,3,3,3
+46,1,British,30.0,"Dog walking, gardening. Grounds maintenance",2,2,4,4,3,3,4,2,5,4,2,1,3,3,5,4,3,4,3,4,5,6,3,1,2,1,2,3,7,7,7,7,2,4,3,3,4
+59,2,ENGLISH,5.0,WALKS GARDENING,2,2,3,4,4,3,4,4,4,3,3,3,2,5,5,5,5,5,5,5,5,5,3,2,2,3,1,3,6,5,4,4,4,4,3,3,3
+71,2,Scottish,30.0,gardening,2,2,3,5,3,3,4,4,3,5,5,5,5,5,5,5,5,5,7,5,7,7,1,2,2,1,2,1,2,4,5,5,4,3,4,3,4
+74,1,british,30.0,"gardening,,walking",2,2,3,4,3,3,3,3,3,1,4,3,4,3,3,3,3,3,0,0,0,0,2,1,1,1,2,2,4,5,5,4,3,3,3,3,3
+35,1,english,60.0,"gardening, dog walking",2,2,4,4,4,4,3,4,5,3,3,3,3,4,2,4,5,4,5,2,4,5,3,1,3,3,1,3,6,6,4,4,3,3,3,4,3
+58,2,English,4.0,"walks,looking at nature in spring n' summer gardening if i am  able",2,2,3,2,2,2,2,2,3,2,5,4,4,5,5,5,5,5,6,1,6,1,2,1,3,3,3,3,7,5,4,3,1,1,3,1,4
+21,1,English,1.0,,2,2,3,2,1,2,3,2,2,2,3,4,4,2,1,3,2,1,4,4,4,4,1,2,2,1,2,2,5,5,4,4,3,3,3,2,1
+20,2,British,10.0,Walking,2,2,2,3,3,2,3,4,3,2,2,2,2,4,3,4,3,4,5,4,5,6,3,2,2,1,2,2,4,4,2,5,3,3,2,3,1
+21,2,British,2.0,"Walks, gardening, visiting nature reserves",2,2,4,4,4,4,4,4,4,3,4,4,3,2,2,4,2,2,6,6,6,6,3,1,1,3,1,3,4,5,6,5,3,4,3,3,3
+49,2,british,10.0,"gardening, spectator football",2,2,4,5,3,4,4,5,5,3,4,,3,5,5,5,5,4,7,6,7,6,3,1,2,1,1,2,6,6,6,6,3,3,4,3,2
+36,2,British,40.0,Walks and gardening,2,2,4,4,4,3,4,3,5,4,2,2,4,4,4,5,5,5,4,1,2,3,3,1,3,2,1,1,3,3,3,3,3,3,3,3,3
+21,2,British,1.0,Walks,2,2,3,4,3,3,4,2,2,2,2,2,2,2,3,4,2,3,7,6,7,6,3,1,2,2,1,3,6,5,5,5,3,3,3,3,3
+21,2,British,2.0,Walking,2,2,2,3,3,4,3,4,4,3,2,2,3,4,1,4,2,3,6,6,6,6,2,1,1,2,1,3,7,7,7,7,3,2,3,3,2
+63,2,white british,15.0,walks,2,2,4,4,4,4,3,4,4,4,4,3,4,3,3,5,4,5,6,6,6,6,3,2,3,3,3,3,6,6,6,5,3,3,3,3,3
+31,2,british,50.0,"trail running, hiking, walking, any type of skiing, snow shoeing, mountain biking, gardening,",2,2,4,5,5,5,5,5,5,5,1,1,5,4,3,5,5,5,6,7,7,7,3,1,1,2,1,3,7,7,7,7,4,4,4,4,4
+71,1,UK,20.0,"Gardening.Walks, Parks.",2,2,4,5,4,3,5,3,5,5,2,1,5,5,5,5,5,5,7,6,7,7,2,1,3,1,1,1,3,3,3,1,4,4,4,4,1
+21,2,british,2.0,walks,2,2,4,4,3,4,4,4,5,4,3,4,2,2,2,2,2,2,6,6,6,5,3,2,3,3,1,3,5,5,6,6,2,2,3,3,2
+63,2,British,25.0,"Gardening,landscaping, forrestry",2,2,4,4,4,4,4,3,4,4,3,4,3,4,4,5,5,4,4,4,4,4,3,2,2,3,2,3,3,3,4,4,4,4,4,4,3
+49,2,British,10.0,Walking cycling gardening,2,2,4,4,4,5,5,4,4,4,1,1,4,5,5,5,4,4,6,4,5,5,3,1,1,2,1,3,6,6,5,7,3,3,4,4,4
+21,2,(White) British,2.0,Walks and the occasional gardening,2,2,3,4,4,3,4,3,4,2,4,4,3,4,4,4,3,4,0,0,0,0,2,1,2,2,1,1,5,4,4,5,3,3,3,3,3
+18,2,british,3.0,"walks with friends, family or dog",2,2,4,3,3,3,2,4,4,4,3,3,4,4,2,4,2,2,5,6,5,6,2,1,2,1,1,1,5,5,5,5,2,3,3,3,2
+43,2,british,6.0,walk the dog to the park. I try and find routes that offer me the chance to be around trees and greenery as much has possible,2,2,4,4,3,3,3,4,4,4,3,3,4,4,5,5,5,4,6,4,4,4,3,2,2,2,1,3,5,5,5,4,3,3,3,3,3
+19,2,British Pakistani,5.0,Walks,2,2,3,2,2,2,2,2,3,2,4,5,4,2,3,3,3,3,2,5,2,5,2,1,1,2,1,3,6,5,4,6,3,2,3,3,3
+31,1,british,0.0,n/a,2,2,5,5,3,4,4,3,5,2,1,1,3,2,2,4,3,3,2,2,3,4,2,3,3,2,2,2,2,2,2,1,4,4,4,4,2
+37,2,White British,1.0,None,2,2,5,5,5,5,5,5,5,4,2,2,2,4,3,4,1,3,7,6,6,5,3,1,1,3,1,3,7,7,7,6,4,3,4,4,3
+18,2,British,3.0,"Walks, photography",2,2,3,3,4,2,4,4,2,1,4,4,5,4,4,4,4,3,4,5,5,6,1,1,2,1,2,1,5,2,5,4,3,2,3,3,2
+21,2,British,5.0,Walks,2,2,1,1,2,1,1,2,2,1,3,3,4,4,4,5,5,5,4,3,3,2,1,3,2,1,3,1,1,2,1,2,1,1,1,1,1
+21,2,British,4.0,Walking,2,2,1,2,1,2,1,1,1,1,4,4,5,4,2,2,2,3,2,2,2,2,1,2,3,2,3,1,2,2,3,2,1,1,2,1,1
+53,2,Brittish,20.0,"gardening, dog walking, feeding wildlife",2,2,4,4,4,4,4,3,5,4,1,2,4,5,4,5,4,4,5,4,4,5,3,2,2,2,2,3,4,3,3,3,3,3,3,3,3
+21,1,British,1.0,Walking,2,2,2,3,2,3,3,3,3,2,3,3,2,3,2,2,2,2,5,5,5,4,2,2,2,2,3,2,5,4,4,5,3,2,2,3,2
+34,2,British,30.0,"walking, running, horse riding, gardening, walking around allotment sites at work",2,2,4,4,3,4,3,4,4,3,3,3,3,5,4,4,4,4,7,6,7,7,3,1,1,3,1,3,7,7,7,7,3,3,3,3,3
+20,1,English,10.0,"Dog walks, rock climbing, gardening",2,2,4,4,3,4,5,4,4,5,2,3,5,5,5,5,5,5,7,5,6,3,3,1,1,1,1,2,7,7,4,6,4,4,4,4,3
+19,2,british,0.0,walking to uni,2,2,3,3,3,3,4,4,4,3,4,3,1,4,1,4,1,1,7,7,7,7,3,1,1,1,1,3,5,5,5,6,3,3,4,3,3
+19,1,British (English),3.0,Walking to university,2,2,3,3,2,2,2,4,2,3,3,3,3,4,2,3,3,3,6,5,6,6,3,2,2,2,2,3,5,5,5,5,2,3,3,3,3
+59,2,British,0.0,None,2,2,4,4,4,4,4,3,4,4,3,3,1,5,4,5,3,4,5,5,6,5,3,2,3,1,1,3,3,5,3,5,4,4,3,3,3
+21,2,British,2.0,Walks,2,2,4,4,4,4,5,4,5,5,2,2,2,2,1,4,2,1,5,5,6,6,3,1,1,3,1,3,7,7,7,7,4,3,4,4,3
+18,2,Polish,20.0,"Walks, running,",2,2,4,4,3,3,4,4,3,4,2,1,5,3,4,1,1,1,5,6,6,6,3,1,2,3,1,3,6,5,4,6,2,3,3,3,3
+20,1,English,1.0,Walking,2,2,3,4,3,3,3,3,3,3,3,2,3,4,1,3,2,1,5,5,4,4,3,2,2,3,1,3,5,6,6,6,3,3,3,2,2
+20,2,British,2.0,"I walk to uni, shops etc but there its all within a city centre (little greenery)",2,2,3,3,2,2,2,2,3,2,4,4,5,4,3,4,4,4,6,6,6,6,1,2,3,1,2,1,3,3,3,3,2,2,3,3,2
+19,2,British,2.0,walks,2,2,2,2,2,3,2,2,4,3,2,2,2,4,1,2,1,1,5,5,5,6,1,3,3,1,3,2,2,2,2,3,2,1,3,3,2
+54,2,British,15.0,"Walks, gardening",2,2,4,3,3,4,4,4,4,3,2,2,4,4,4,3,4,3,2,2,2,2,0,0,0,0,0,0,7,7,7,7,4,4,3,3,2
+70,2,British,20.0,Gardening walking,2,2,3,3,3,4,3,3,3,2,3,2,2,4,4,5,5,5,0,0,0,0,3,1,1,2,1,3,7,7,7,7,1,1,2,2,2
+20,2,English,2.0,Walking,2,2,3,4,3,4,3,4,4,4,2,2,4,2,2,5,3,3,5,3,5,4,3,2,2,3,2,3,5,5,5,5,3,3,4,3,2
+36,2,British,2.0,Walk the dog.,2,2,3,3,2,2,3,2,4,2,3,3,5,4,5,5,5,4,2,2,2,2,1,3,3,1,3,1,5,3,7,2,2,2,4,4,2
+21,2,british,3.0,walks,2,2,3,3,2,3,3,4,3,3,3,3,2,3,2,3,2,2,6,6,6,6,3,1,1,2,1,3,6,6,6,6,2,2,3,2,2
+20,2,British,0.0,none,2,2,5,5,5,5,4,5,5,4,3,4,5,2,3,5,3,3,1,1,1,1,3,1,1,1,1,3,7,7,7,7,4,4,4,4,4
+54,2,White/british,1.0,Gardening walking,2,2,2,2,1,3,3,1,4,2,3,2,4,4,3,5,3,4,0,0,0,0,1,1,1,3,1,3,4,4,4,3,3,4,4,4,3
+51,2,English,8.0,"Walks , gardening",2,2,4,3,2,3,3,3,4,1,3,2,5,5,5,5,5,5,5,5,5,5,3,2,3,3,1,2,5,5,5,5,1,2,2,2,1
+54,2,british,10.0,"gardening, walks",2,2,4,4,4,4,4,5,5,5,2,2,5,5,3,5,5,5,6,6,6,6,3,2,2,2,2,3,6,6,6,6,4,4,4,4,3
+52,2,Irish,1.0,Walking,2,2,3,2,2,3,3,1,5,3,4,5,4,5,4,4,4,4,2,3,2,3,2,3,3,1,3,2,2,1,1,2,4,4,4,4,3
+25,1,White British,50.0,Gardening,2,2,3,4,4,4,4,4,4,5,2,2,4,5,4,5,5,5,2,6,6,6,3,1,1,1,1,3,7,7,5,7,4,4,4,4,4
+57,2,British,0.0,"Gardening, feeding fox, feeding birds",2,2,2,3,3,3,3,3,3,3,5,5,2,5,4,5,5,5,4,4,4,4,2,2,2,1,2,2,2,1,4,4,3,3,2,2,2
+47,1,British,6.0,"Walks,gardening,sitting",2,2,3,3,3,3,4,3,4,3,3,3,5,4,3,5,4,4,6,5,6,4,2,1,3,3,2,2,3,4,3,3,3,3,3,3,3
+49,2,British,8.0,"Walking, Gardening, Beachcombing",2,2,4,4,4,4,4,4,4,3,3,3,5,5,5,5,5,5,4,4,6,4,3,3,3,3,1,3,4,4,4,4,4,4,4,4,4
+58,2,British,10.0,"gardening , walking",2,2,2,4,2,3,3,3,4,4,4,4,1,5,5,5,5,5,5,3,5,2,2,3,3,1,2,1,3,2,2,4,1,3,3,3,2
+60,2,British,20.0,Gardening,2,2,5,5,5,4,3,3,4,3,4,3,1,4,4,5,5,4,4,4,4,4,3,1,3,2,2,3,5,2,4,4,4,4,4,4,3
+44,2,British,6.0,"Viaiting country parks, mature rambles, gardening",2,2,3,4,4,4,4,3,4,3,3,3,5,5,3,4,4,4,5,6,6,6,2,3,3,1,2,2,3,3,5,5,3,4,4,4,3
+57,2,British,6.0,"Gardening, walking locally,",2,2,3,3,3,3,3,2,3,3,4,4,4,5,4,5,3,3,4,4,4,4,2,3,3,1,2,2,4,3,3,3,3,4,4,4,3
+54,2,British,2.0,Walks gardening,2,2,3,4,3,4,4,4,4,3,3,3,1,4,3,4,3,3,5,2,5,5,3,1,1,3,1,3,6,5,4,5,3,3,3,3,3
+42,2,British,6.0,Walking and gardening,2,2,2,3,2,2,3,2,2,1,2,2,3,4,4,5,4,4,6,6,4,6,1,3,3,3,1,1,6,3,3,5,1,2,3,4,3
+38,2,British,2.0,"Walk, gardening, reading about wildlife, feed and watch wildlife",2,2,5,5,5,5,5,4,5,5,1,1,4,4,5,5,5,5,5,6,6,6,3,1,1,2,1,3,6,7,7,6,4,3,4,4,3
+48,2,British,5.0,"Gardening, dog walking",2,2,3,3,3,3,4,3,3,2,3,3,5,4,4,5,4,4,5,3,5,3,2,1,2,2,3,1,4,4,4,4,3,2,3,3,2
+37,2,British,1.0,Walking,2,2,2,2,2,3,4,1,5,2,4,4,5,3,1,5,5,3,1,1,1,1,2,3,3,1,3,1,1,1,1,1,3,3,4,4,3
+35,2,Mixed English and Indian,15.0,Walking garening,2,2,2,3,3,3,3,2,3,2,2,3,3,4,4,4,4,4,4,4,4,4,1,3,3,2,3,1,1,1,1,1,3,3,3,3,2
+68,2,Uk,6.0,"Walking, seting seed, or plants in my glasshouse",2,2,3,3,4,2,3,4,4,4,5,4,2,3,3,5,5,4,3,3,3,3,2,2,2,2,2,3,5,4,4,4,3,3,3,3,3
+47,2,British,2.0,Gardening,2,2,4,4,3,4,4,4,4,4,2,2,4,4,3,4,4,4,6,6,6,5,3,2,2,3,1,3,6,5,5,5,4,3,3,3,2
+60,2,english,2.0,gardening,2,2,4,5,2,4,5,2,4,3,4,3,3,5,5,5,5,5,4,4,3,3,3,2,3,3,3,2,4,4,1,4,4,4,4,4,4
+54,2,British,3.0,"Walks to work, gardening, walks when Caravanning",2,2,5,4,4,3,3,5,5,5,2,1,5,4,4,5,4,5,6,5,5,3,3,1,1,2,1,2,6,6,6,6,4,4,4,4,4
+60,2,Irish,2.0,"gardening, walking",2,2,4,5,4,4,4,3,5,4,1,1,3,4,3,5,5,5,6,5,6,6,3,2,2,1,3,3,2,2,2,2,4,4,4,4,3
+64,2,British,20.0,"Walking, gardening",2,2,4,4,4,4,4,4,4,3,2,1,4,5,5,5,4,5,6,6,6,7,3,2,1,2,2,3,6,5,5,4,4,4,4,4,2
+59,2,British,4.0,"Gardening, walking - more in summer than in winter",2,2,5,5,3,4,4,4,4,4,2,2,4,4,4,5,5,4,6,6,6,6,3,1,1,3,1,3,7,7,7,7,4,3,3,4,3
+21,2,British,10.0,"Walks, Running",2,2,3,3,3,2,3,1,4,1,2,2,4,4,4,5,4,3,2,3,1,2,1,3,3,1,3,1,2,3,1,3,2,3,3,3,3
+53,2,British,10.0,"Gardening, dog walking",2,2,4,4,5,4,4,4,4,4,4,4,5,3,5,5,5,5,6,6,6,6,3,2,2,3,3,3,7,5,5,5,3,3,3,3,3
+59,2,Uk,1.0,"Walks , gardening , bird watching / photography",2,2,3,3,3,3,3,3,4,2,3,2,4,5,5,5,5,5,3,0,0,0,3,0,3,0,0,2,3,3,4,3,2,2,3,3,1
+72,2,British,25.0,"Birdwatching, walking in countryside, gardening including birdfeeding",2,2,4,5,4,4,3,5,5,3,3,3,4,5,5,5,5,5,6,6,6,5,3,2,2,3,2,3,5,5,6,6,3,3,4,3,3
+45,2,Scottish,15.0,"gardening, walking, hillwalking, running, cycling, visiting parks, woodland conservation work",2,1,3,4,2,3,3,4,5,4,1,1,5,5,5,5,5,5,7,6,6,6,3,2,2,1,2,2,5,5,4,5,3,3,3,3,2
+18,2,British,3.0,dog walks,2,2,3,3,3,2,3,4,2,2,3,3,2,2,1,2,2,3,6,6,6,6,2,1,1,2,1,3,6,6,6,7,2,2,3,2,2
+24,non binary,British,0.0,Walks,2,2,3,2,3,3,4,3,2,2,2,3,2,5,3,5,3,3,3,6,5,6,1,2,2,3,2,3,6,6,6,6,2,2,3,2,2
+55,1,Yes,5.0,walking and climbing,2,2,2,2,2,2,2,2,2,1,4,3,4,3,1,4,4,3,4,4,4,4,3,2,2,2,2,2,4,5,3,5,2,1,1,1,1
+25,1,Italy,1.0,walk,2,2,3,3,3,3,3,3,4,2,4,4,4,4,3,3,2,4,3,3,3,3,2,1,1,3,1,3,5,5,5,5,3,3,3,3,3
+26,2,German,1.0,"Walks, horseback riding",2,2,3,3,3,3,3,3,3,2,4,4,4,3,3,4,3,4,5,5,5,5,2,2,2,2,2,2,4,4,5,5,3,3,3,3,3
+25,1,Italian,8.0,visiting national parks; having picnic; doing excursions,2,2,4,4,3,3,4,4,4,4,1,1,2,4,4,4,4,5,6,6,6,6,3,2,2,1,1,3,5,5,5,5,4,4,4,4,4
+59,2,American,4.0,walking,2,2,3,4,3,4,4,3,4,4,3,3,2,4,3,4,3,3,6,5,6,5,3,2,2,3,2,3,5,5,5,5,3,3,3,3,3
+24,2,British,9.0,Walks,2,2,4,4,3,3,3,4,4,3,3,3,3,4,4,4,4,3,4,4,4,4,2,1,1,2,1,2,5,5,5,5,3,3,3,3,3
+26,2,British,3.0,"Walking, site seeing",2,2,1,2,2,2,1,1,2,1,4,4,5,3,2,4,2,2,1,2,2,4,1,3,3,1,3,1,2,2,1,2,3,3,3,4,2
+25,1,Germany,4.0,"Walking to work, sitting in the garden",2,2,4,4,3,3,4,3,4,4,4,4,4,5,5,5,5,5,6,5,5,5,2,2,2,2,2,2,6,6,6,6,3,3,3,3,3
+35,1,UK,4.0,Studying,2,2,3,3,4,3,2,4,3,3,3,3,3,2,3,3,3,3,3,4,5,4,2,1,3,2,2,1,4,5,5,3,2,3,2,3,2
+22,2,Egyptian,0.0,walks (but may be once per a few months),2,2,3,4,2,3,3,4,3,4,2,3,5,5,5,5,4,4,3,4,5,4,1,2,2,1,2,2,4,5,3,3,3,3,3,4,3
+29,2,British,25.0,Volunteering at a community garden,2,1,4,4,4,4,4,4,4,4,2,2,4,4,5,5,5,5,5,4,7,5,3,1,2,3,1,3,6,6,6,6,4,3,4,4,4
+60,2,British,10.0,Gardening,2,2,3,4,4,4,4,4,4,4,2,2,2,4,5,5,5,5,6,6,6,6,3,1,1,2,2,3,6,6,6,6,,0,0,0,0
+18,1,British,24.0,"walks, gardeining, outdoor sports",2,2,4,4,4,2,4,4,4,5,3,3,2,3,2,4,2,2,6,6,6,6,3,1,1,2,1,3,6,6,5,5,3,3,3,4,4
+41,2,British,12.0,"Walks, cycles, parks, gardening",2,2,5,5,3,5,5,5,5,3,1,1,4,4,4,5,5,5,3,5,5,5,3,2,2,3,2,3,7,7,7,7,4,4,4,4,4
+63,2,US,21.0,"Walking, gardening",2,2,3,4,4,4,4,4,4,4,2,2,5,4,5,5,5,5,4,4,4,4,3,2,3,3,1,2,4,5,5,5,3,4,4,4,3
+20,2,Polish,4.0,walk in the park,2,2,4,3,3,3,3,3,3,3,2,2,3,4,3,5,4,3,5,5,5,5,2,1,1,2,1,3,3,4,3,4,3,3,3,3,3
+22,2,British,3.0,Walking dog,2,2,3,3,2,2,2,3,3,2,2,1,4,2,2,5,4,3,5,5,5,5,3,1,1,3,1,2,6,5,6,6,3,2,3,3,1
+18,2,British,6.0,Walking,2,2,3,3,2,3,3,4,4,2,3,3,4,5,4,5,5,4,6,5,6,6,2,1,1,2,1,3,4,4,4,5,3,2,3,3,2
+21,1,British,3.0,walks,2,2,3,3,3,4,3,3,3,3,3,3,4,3,3,4,2,3,5,5,5,6,1,1,1,3,1,3,5,6,7,7,3,4,3,3,1
+39,1,"English, but living in Ireland, and have no intentions of moving back.",30.0,"gardening, walks, visiting the lake",2,1,4,4,3,3,3,3,5,5,4,5,5,5,2,5,5,5,6,5,6,4,3,2,3,1,3,2,5,5,3,4,3,3,4,4,3
+24,2,English,5.0,"Walks, gardening",2,2,4,3,3,3,4,4,4,4,3,2,5,4,3,3,4,4,6,6,6,6,3,1,1,3,1,3,6,6,6,6,3,3,3,3,1
+62,2,English,20.0,"walks, gardening,",2,2,3,3,3,3,3,2,4,2,4,4,3,5,3,5,4,3,5,5,5,4,1,3,3,1,3,1,3,3,3,3,4,3,3,4,2
+22,2,hungarian,5.0,walks,2,2,4,4,3,5,2,4,3,2,4,3,5,5,5,5,5,5,6,3,6,6,2,1,1,1,1,2,5,5,4,6,3,4,4,4,3
+38,2,Caucasian,21.0,"Walking, gardening.",2,2,4,4,4,4,4,4,5,4,2,1,4,5,5,5,5,5,6,5,6,6,3,2,2,2,2,3,4,6,5,5,4,4,3,4,2
+39,1,British,15.0,"Gardening, walks along canal",2,2,2,4,4,4,3,4,4,4,3,3,2,4,4,4,4,4,3,3,3,5,2,1,3,2,3,3,5,5,4,4,4,4,4,4,4
+24,2,Dutch,1.0,gardering,2,2,3,3,3,3,2,2,2,5,3,3,5,3,1,1,1,1,4,4,4,4,2,2,2,2,3,3,4,5,5,5,3,3,3,3,3
+30,2,Irish,7.0,"Walks, hiking, running",2,2,5,4,3,4,4,3,4,4,2,2,4,5,5,5,5,5,3,4,3,4,3,2,2,1,2,3,4,4,5,5,4,4,3,3,3
+40,2,kazakhstan,5.0,running,2,2,3,4,3,3,2,3,4,4,2,2,5,3,4,4,4,4,4,4,4,5,3,2,3,3,2,3,2,6,5,5,3,3,3,3,2
+60,2,British,35.0,"Gardening, dog walking, bird watching",2,2,4,4,4,4,4,4,4,3,3,3,5,5,3,5,5,5,4,4,2,2,3,2,2,3,1,3,1,1,1,1,3,3,3,3,3
+32,2,British,8.0,"Walking, gardening",2,2,3,2,3,3,3,4,3,2,4,4,4,3,3,5,4,4,6,5,6,5,2,1,1,2,2,3,5,5,5,5,3,3,3,3,3
+46,2,Caucasian - English/Canadian,7.0,"Dog walks, gardening, yard maintenance.",2,2,2,2,4,3,3,3,5,4,3,3,4,4,5,5,5,5,1,1,1,1,2,3,3,3,2,3,4,2,3,2,2,2,4,4,2
+30,2,Welsh,2.0,walking,2,2,3,4,4,4,4,3,4,1,2,3,4,5,3,5,5,3,5,4,5,5,2,2,2,3,1,2,3,3,3,3,3,2,4,3,3
+60,2,Australian,6.0,Gardening walking,2,2,4,5,4,5,5,5,5,4,2,1,1,4,1,5,3,2,7,6,7,6,3,1,1,3,1,3,7,7,7,6,3,3,3,3,3
+63,2,Scottish,18.0,"Walking, gardening",2,2,4,5,4,3,4,4,4,4,3,1,4,5,5,5,5,5,6,6,6,5,3,2,1,3,1,3,5,5,5,5,4,4,4,3,4
+57,2,British,25.0,"Dog walking, gardening, chicken keeping",2,2,3,4,3,3,3,4,4,4,2,2,5,4,4,4,0,3,4,4,4,5,2,2,3,2,3,3,3,3,3,2,4,4,4,4,2
+21,2,British,2.0,walking/ visiting the park,2,2,2,3,3,1,2,2,2,1,3,4,3,4,3,4,4,3,4,5,4,4,1,2,2,1,2,2,1,3,3,2,1,2,3,3,3
+20,2,British,0.0,None,2,2,5,5,5,5,5,5,5,5,4,5,4,1,3,3,3,3,5,6,7,7,3,1,1,1,1,3,7,7,7,7,4,4,4,4,4
+33,2,british,5.0,"gardening, horse riding",2,2,3,3,2,2,2,2,3,2,4,4,4,4,5,5,5,5,5,4,5,5,1,3,3,3,1,3,3,4,4,4,3,3,3,3,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
