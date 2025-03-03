@@ -8,26 +8,6 @@ editor: visual
 
 ## Packages & library
 
-```{r tidyverse}
-install.packages("tidyverse")
-```
-
-```{r descr}
-install.packages("descr")
-```
-
-```{r knitr}
-install.packages("knitr")
-```
-
-```{r dplyr}
-install.packages("dplyr")
-```
-
-```{r Hmisc}
-install.packages("Hmisc")
-```
-
 ```{r library}
 library(tidyverse)
 library(descr)
@@ -41,53 +21,48 @@ library(readxl)
 ## Load
 
 ```{r load-data}
-Project_Data = read.csv("/cloud/project/Data/RAW/Connection_to_Nature_Data.csv",
+Project_Data = read.csv("/cloud/project/Data/Connection_to_Nature_Data.csv",
 header = TRUE)
 ```
 
 ## FREQ. Table
 
 ```{r}
-freq(as.ordered(Project_Data$D_Age), plot = FALSE)
-#(data$)<- "D_Age"
-
 #People's age
+
+freq(as.ordered(Project_Data$D_Age), plot = FALSE)
 ```
 
 I choose this variable (age) because I think it would be important to look at in reference to how loneliness and time spent in nature varies among age groups. Perhaps depending on the age group, there will be more positive benefits to those exposed to nature in relation to loneliness.
 
 ```{r}
-freq(as.ordered(Project_Data$D_hours), plot = FALSE)
-#(data$)<- "D_hours"
-
 #How many hours on average do you currently spend in nature per week? 
+
+freq(as.ordered(Project_Data$D_hours), plot = FALSE)
 ```
 
 This is very important. This variable (hours spent in nature) is important because when I did the literature review assignment, depending on the time spent in nature, actually lowered both social loneliness and emotional loneliness, but it depends how much time was spent in nature.
 
 ```{r}
-freq(as.ordered(Project_Data$Lon_1), plot = FALSE)
-#(data$)<- "Lon_1"
-
 #People's experience a general sense of emptiness (survey response)
+
+freq(as.ordered(Project_Data$Lon_1), plot = FALSE)
 ```
 
 I choose this variable (people's sense of emptiness) because this can be a reason for social/emotional loneliness. If time spent nature is associated with lower loneliness on these two paths, we might also see a decrease in emptiness to those who spend more time in nature.
 
 ```{r}
-freq(as.ordered(Project_Data$Lon_4), plot = FALSE)
-#(data$)<- "Lon_4"
-
 # I miss having people around (survey response)
+
+freq(as.ordered(Project_Data$Lon_4), plot = FALSE)
 ```
 
 This variable (missing social interaction) could be important because social loneliness is being examined here. Comparing this to time spent in nature can help show whether nature can also regulate/help social loneliness as well.
 
 ```{r}
-freq(as.ordered(Project_Data$SE_1), plot = FALSE)
-#(data$)<- "SE_1"
-
 # I have high self-esteem (survey response)
+
+freq(as.ordered(Project_Data$SE_1), plot = FALSE)
 ```
 
 Lastly, I also choose this variable (people's self-esteem) because those who experience loneliness and spend little time in nature differ from those who don't feel loneliness and do spend time in nature. Perhaps those who do spend more time have higher level's of agreement to self-esteem compared to those who do not.
