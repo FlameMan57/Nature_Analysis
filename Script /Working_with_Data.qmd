@@ -1,8 +1,12 @@
 ---
 title: "Working_with_Data"
 format: 
-html:
-  self-containted: true
+  pdf:
+    number-sections: true
+    toc: true
+    pdf-engine: xelatex 
+    geometry: margin=1in
+    fontsize: 8pt
 editor: visual
 ---
 
@@ -25,26 +29,58 @@ Project_Data = read.csv("/cloud/project/Data/Connection_to_Nature_Data.csv",
 header = TRUE)
 ```
 
-## FREQ. Table
+## Variables
 
 ```{r}
-#People's age
+# VARIABLE 1: People's Age
 
-freq(as.ordered(Project_Data$D_Age), plot = FALSE)
+
+# age 18 and above
+
+Project_Data <- subset(Project_Data, D_Age >= 18)
+
+# Group D_Age into 4 age range's and Labeling
+
+Project_Data$Age_Group <- cut(Project_Data$D_Age, 
+                              breaks = c(18, 25, 40, 65, Inf), 
+                              labels = c("18-25", "26-40", "40-65", "65+"),
+                              right = TRUE)
+                              include.lowest = TRUE
+
+# Frequency table
+                              
+freq(as.ordered(Project_Data$Age_Group),plot =FALSE)
 ```
 
 I choose this variable (age) because I think it would be important to look at in reference to how loneliness and time spent in nature varies among age groups. Perhaps depending on the age group, there will be more positive benefits to those exposed to nature in relation to loneliness.
 
 ```{r}
-#How many hours on average do you currently spend in nature per week? 
+# VARIABLE 2: How many hours on average do you currently spend in nature per week? 
 
-freq(as.ordered(Project_Data$D_hours), plot = FALSE)
+# Group D_hours into 4 categories & Labeling
+
+Project_Data$Nature_Hours_Group <- cut(Project_Data$D_hours, 
+                                       breaks = c(0, 5, 15, 30, Inf),
+                                       labels = c("Low (0-5)", "Moderate (6-15)", "High (16-30)", "Very High (30+)"), 
+                                       include.lowest = TRUE)
+
+# Frequency table
+
+freq(as.ordered(Project_Data$Nature_Hours_Group), plot = FALSE)
 ```
 
 This is very important. This variable (hours spent in nature) is important because when I did the literature review assignment, depending on the time spent in nature, actually lowered both social loneliness and emotional loneliness, but it depends how much time was spent in nature.
 
 ```{r}
-#People's experience a general sense of emptiness (survey response)
+# VARIABLE 3: People's experience a general sense of emptiness (survey response)
+
+# Labeling
+
+Project_Data$Lon_1 <- factor(Project_Data$Lon_1,
+                             levels = c(1, 2, 3),
+                             labels = c("yes", "more or less", "no"))
+
+# Frequency Table
 
 freq(as.ordered(Project_Data$Lon_1), plot = FALSE)
 ```
@@ -52,7 +88,15 @@ freq(as.ordered(Project_Data$Lon_1), plot = FALSE)
 I choose this variable (people's sense of emptiness) because this can be a reason for social/emotional loneliness. If time spent nature is associated with lower loneliness on these two paths, we might also see a decrease in emptiness to those who spend more time in nature.
 
 ```{r}
-# I miss having people around (survey response)
+# VARIABLE 4: I miss having people around (survey response)
+
+# Labeling
+
+Project_Data$Lon_4 <- factor(Project_Data$Lon_4,
+                             levels = c(1, 2, 3),
+                             labels = c("yes", "more or less", "no"))
+
+# Frequency Table
 
 freq(as.ordered(Project_Data$Lon_4), plot = FALSE)
 ```
@@ -60,7 +104,16 @@ freq(as.ordered(Project_Data$Lon_4), plot = FALSE)
 This variable (missing social interaction) could be important because social loneliness is being examined here. Comparing this to time spent in nature can help show whether nature can also regulate/help social loneliness as well.
 
 ```{r}
-# I have high self-esteem (survey response)
+# VARIABLE 5: I have high self-esteem (survey response)
+
+# Labeling
+
+Project_Data$SE_1 <- factor(Project_Data$SE_1,
+                            levels = c(1, 2, 3, 4, 5),
+                            labels = c("not very true of me", "2", "3", "4", "very true of me"),
+                            ordered = TRUE)
+
+# Frequency table 
 
 freq(as.ordered(Project_Data$SE_1), plot = FALSE)
 ```
