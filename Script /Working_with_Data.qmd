@@ -20,6 +20,7 @@ library(dplyr)
 library(Hmisc)
 library(readr)
 library(readxl)
+library(ggplot2)
 ```
 
 ## Load
@@ -83,9 +84,20 @@ Project_Data$Lon_1 <- factor(Project_Data$Lon_1,
 # Frequency Table
 
 freq(as.ordered(Project_Data$Lon_1), plot = FALSE)
+
+# Bar graph
+
+ggplot(data = subset(Project_Data, !is.na(Lon_1)), aes(x = Lon_1)) +
+  geom_bar(fill = "red", color = "black") +
+  xlab("Self-Reported Emptiness") +
+  ylab("Survey Count") +
+  ggtitle("Do People Experience a general sense of Emptiness?") +
+  theme_classic() +
+  theme(plot.title = element_text(size = 14, face = "bold"))
 ```
 
-I choose this variable (people's sense of emptiness) because this can be a reason for social/emotional loneliness. If time spent nature is associated with lower loneliness on these two paths, we might also see a decrease in emptiness to those who spend more time in nature.
+-   Lit Review Assign: I choose this variable (people's sense of emptiness) because this can be a reason for social/emotional loneliness. If time spent nature is associated with lower loneliness on these two paths, we might also see a decrease in emptiness to those who spend more time in nature.
+-   Univariate Data Visualization Assign: The first graph illustrates people's experiences of a general sense of emptiness. Overall, most respondents said no, while the fewest number of respondents said yes. 
 
 ```{r}
 # VARIABLE 4: I miss having people around (survey response)
@@ -99,9 +111,21 @@ Project_Data$Lon_4 <- factor(Project_Data$Lon_4,
 # Frequency Table
 
 freq(as.ordered(Project_Data$Lon_4), plot = FALSE)
+
+# Bar graph
+
+ggplot(data = subset(Project_Data, !is.na(Lon_4)), aes(x = Lon_4)) +
+  geom_bar(fill = "red", color = "black") +
+  xlab("Feeling About Missing People") +
+  ylab("Survey Count") +
+  ggtitle("Do People Feel They Miss Having Others Around?") +
+  theme_classic() +
+  theme(plot.title = element_text(size = 14, face = "bold"))
 ```
 
-This variable (missing social interaction) could be important because social loneliness is being examined here. Comparing this to time spent in nature can help show whether nature can also regulate/help social loneliness as well.
+-   Lit Review Assign: This variable (missing social interaction) could be important because social loneliness is being examined here. Comparing this to time spent in nature can help show whether nature can also regulate/help social loneliness as well.
+
+-   Univariate Data Visualization Assign: The second graph illustrates people's survey responses to whether individuals feel that they miss others in their lives. This is similar to the first graph. Most respondents said no, while the fewest number of respondents said yes. 
 
 ```{r}
 # VARIABLE 5: I have high self-esteem (survey response)
