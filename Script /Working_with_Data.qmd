@@ -36,7 +36,7 @@ header = TRUE)
 # VARIABLE 1: People's Age
 
 
-# age 18 and above
+# Age 18 and above
 
 Project_Data <- subset(Project_Data, D_Age >= 18)
 
@@ -45,10 +45,10 @@ Project_Data <- subset(Project_Data, D_Age >= 18)
 Project_Data$Age_Group <- cut(Project_Data$D_Age, 
                               breaks = c(18, 25, 40, 65, Inf), 
                               labels = c("18-25", "26-40", "40-65", "65+"),
-                              right = TRUE)
-                              include.lowest = TRUE
+                              right = TRUE,
+                              include.lowest = TRUE)
 
-# Frequency table
+# Frequency table 
                               
 freq(as.ordered(Project_Data$Age_Group),plot =FALSE)
 ```
@@ -81,7 +81,7 @@ Project_Data$Lon_1 <- factor(Project_Data$Lon_1,
                              levels = c(1, 2, 3),
                              labels = c("yes", "more or less", "no"))
 
-# Frequency Table
+# Frequency table
 
 freq(as.ordered(Project_Data$Lon_1), plot = FALSE)
 
@@ -108,7 +108,7 @@ Project_Data$Lon_4 <- factor(Project_Data$Lon_4,
                              levels = c(1, 2, 3),
                              labels = c("yes", "more or less", "no"))
 
-# Frequency Table
+# Frequency table
 
 freq(as.ordered(Project_Data$Lon_4), plot = FALSE)
 
@@ -143,3 +143,45 @@ freq(as.ordered(Project_Data$SE_1), plot = FALSE)
 ```
 
 Lastly, I also choose this variable (people's self-esteem) because those who experience loneliness and spend little time in nature differ from those who don't feel loneliness and do spend time in nature. Perhaps those who do spend more time have higher level's of agreement to self-esteem compared to those who do not.
+
+## Bivariate Analysis
+
+```{r}
+# Bivariate 1: Correlation between age and time spent in nature
+
+Project_Data <- subset(Project_Data, !is.na(D_Age) & !is.na(D_hours))
+
+# Scatter plot 
+
+ggplot(Project_Data, aes(x = D_Age, y = D_hours)) +
+  geom_point(color = "orange", alpha = 0.6) +
+  geom_smooth(method = "lm", se = FALSE, color = "red") +
+  xlab("Age (Years)") +
+  ylab("Hours Outside per Week") +
+  ggtitle("Does Age Influence Time Spent in Nature?") +
+  theme_classic() + 
+  theme(plot.title = element_text(size = 14, face = "bold"))  
+```
+
+-   The scatter plot shown here shows that there is a slight positive correlation between age and time spent outside hourly per week. The positive correlation shows that older individuals might spend a little bit more time in nature. However, when it comes to my research interest concerning the relationship between loneliness and nature, age does not seem to be a strong factor.
+
+```{r}
+# Bivariate 2: Correlation between time spent in nature and general emptiness  
+
+summary_data <- Project_Data %>%
+  filter(!is.na(Lon_1) & !is.na(D_hours)) %>%
+  group_by(Lon_1) %>%
+  summarise(Avg_Hours = mean(D_hours))
+
+# Bar graph
+ggplot(summary_data, aes(x = Lon_1, y = Avg_Hours, fill = Lon_1)) +
+  geom_bar(stat = "identity", fill = "red", color = "black") +
+  xlab("Sense of Emptiness") +
+  ylab("Average Hours Outside per Week") +
+  ggtitle("Average Hours in Nature by Sense of Emptiness") +
+  theme_classic() +
+  theme(plot.title = element_text(size = 14, face = "bold")) +
+  guides(fill = FALSE)
+```
+
+-   The bar graph shown here illustrates the relationship between people's sense of emptiness, and their average hours spent in nature. Individuals who say YES to feeling empty, show, a high number of hours outside, and are like those who say NO to feeling empty as well. However, people who said MORE OR LESS, spent the least amount of time outside. They would mean that the relationship between a sense of emptiness and time spent in nature is not straightforward and there could be other factors influencing nature and loneliness.
