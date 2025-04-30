@@ -1,5 +1,5 @@
 ---
-title: "Working_with_Data"
+title: "Working with Data"
 format: 
   pdf:
     number-sections: true
@@ -10,11 +10,9 @@ format:
 editor: visual
 ---
 
-# --------------------Packages & library——————–
+------------------------------------------------------------------------
 
-```{r}
-install.packages("car")  
-```
+# library & Load
 
 ```{r library}
 library(tidyverse)
@@ -28,14 +26,14 @@ library(ggplot2)
 library(car) 
 ```
 
-# --------------------Load———————
-
 ```{r load-data}
 Project_Data = read.csv("/cloud/project/Data/Connection_to_Nature_Data.csv",
 header = TRUE)
 ```
 
-# --------------------Variables——————
+------------------------------------------------------------------------
+
+# Single Variables
 
 ```{r}
 # VARIABLE 1: People's Age
@@ -58,7 +56,7 @@ Project_Data$Age_Group <- cut(Project_Data$D_Age,
 freq(as.ordered(Project_Data$Age_Group),plot =FALSE)
 ```
 
-I choose this variable (age) because I think it would be important to look at in reference to how loneliness and time spent in nature varies among age groups. Perhaps depending on the age group, there will be more positive benefits to those exposed to nature in relation to loneliness.
+I chose this variable **(age)** because I think it would be important to look at in reference to how loneliness and time spent in nature varies among age groups. Perhaps depending on the age group, there will be more positive benefits to those exposed to nature in relation to loneliness.
 
 ```{r}
 # VARIABLE 2: How many hours on average do you currently spend in nature per week? 
@@ -75,7 +73,7 @@ Project_Data$Nature_Hours_Group <- cut(Project_Data$D_hours,
 freq(as.ordered(Project_Data$Nature_Hours_Group), plot = FALSE)
 ```
 
-This is very important. This variable (hours spent in nature) is important because when I did the literature review assignment, depending on the time spent in nature, actually lowered both social loneliness and emotional loneliness, but it depends how much time was spent in nature.
+This is very important. This variable **(hours spent in nature)** is important because when I did the literature review assignment, depending on the time spent in nature, actually lowered both social loneliness and emotional loneliness, but it depends how much time was spent in nature.
 
 ```{r}
 # VARIABLE 3: People's experience a general sense of emptiness (survey response)
@@ -93,7 +91,7 @@ freq(as.ordered(Project_Data$Lon_1), plot = FALSE)
 # Bar graph
 
 ggplot(data = subset(Project_Data, !is.na(Lon_1)), aes(x = Lon_1)) +
-  geom_bar(fill = "red", color = "black") +
+  geom_bar(fill = "chartreuse", color = "black") +
   xlab("Self-Reported Emptiness") +
   ylab("Survey Count") +
   ggtitle("Do People Experience a general sense of Emptiness?") +
@@ -101,8 +99,8 @@ ggplot(data = subset(Project_Data, !is.na(Lon_1)), aes(x = Lon_1)) +
   theme(plot.title = element_text(size = 14, face = "bold"))
 ```
 
--   Lit Review Assign: I choose this variable (people's sense of emptiness) because this can be a reason for social/emotional loneliness. If time spent nature is associated with lower loneliness on these two paths, we might also see a decrease in emptiness to those who spend more time in nature.
--   Univariate Data Visualization Assign: The first graph illustrates people's experiences of a general sense of emptiness. Overall, most respondents said no, while the fewest number of respondents said yes. 
+-   **Univariate Analysis:** The first graph illustrates [people's experiences of a general sense of emptiness]{.underline}. Overall, most respondents said no, while the fewest number of respondents said yes. 
+-   **Lit Review motive:** I chose this variable **(people's sense of emptiness)** because it may contribute to experiences of social and emotional loneliness. If time spent nature is associated with lower loneliness on both social and emotional, we might also see a decrease in emptiness to those who spend more time in nature.
 
 ```{r}
 # VARIABLE 4: I miss having people around (survey response)
@@ -120,7 +118,7 @@ freq(as.ordered(Project_Data$Lon_4), plot = FALSE)
 # Bar graph
 
 ggplot(data = subset(Project_Data, !is.na(Lon_4)), aes(x = Lon_4)) +
-  geom_bar(fill = "red", color = "black") +
+  geom_bar(fill = "chartreuse", color = "black") +
   xlab("Feeling About Missing People") +
   ylab("Survey Count") +
   ggtitle("Do People Feel They Miss Having Others Around?") +
@@ -128,9 +126,9 @@ ggplot(data = subset(Project_Data, !is.na(Lon_4)), aes(x = Lon_4)) +
   theme(plot.title = element_text(size = 14, face = "bold"))
 ```
 
--   Lit Review Assign: This variable (missing social interaction) could be important because social loneliness is being examined here. Comparing this to time spent in nature can help show whether nature can also regulate/help social loneliness as well.
+-   **Univariate Analysis:** The second graph illustrates people's survey responses to whether individuals feel that they miss others in their lives. This is similar to the first graph. Most respondents said no, while the fewest number of respondents said yes. 
 
--   Univariate Data Visualization Assign: The second graph illustrates people's survey responses to whether individuals feel that they miss others in their lives. This is similar to the first graph. Most respondents said no, while the fewest number of respondents said yes. 
+-   **Lit Review motive:** This variable **(missing social interaction)** could be important because social loneliness is being examined here. Comparing this to time spent in nature can help show whether nature can also regulate/help social loneliness as well.
 
 ```{r}
 # VARIABLE 5: I have high self-esteem (survey response)
@@ -147,9 +145,13 @@ Project_Data$SE_1 <- factor(Project_Data$SE_1,
 freq(as.ordered(Project_Data$SE_1), plot = FALSE)
 ```
 
-Lastly, I also choose this variable (people's self-esteem) because those who experience loneliness and spend little time in nature differ from those who don't feel loneliness and do spend time in nature. Perhaps those who do spend more time have higher level's of agreement to self-esteem compared to those who do not.
+Lastly, I also chose this variable **(people's self-esteem)** because those who experience loneliness and spend little time in nature differ from those who don't feel loneliness and do spend time in nature. Perhaps those who do spend more time have higher levels of agreement to self-esteem compared to those who do not.
 
-# --------------------Bivariate Analysis——————–
+[I may not add this to the poster at all.]{.underline}
+
+------------------------------------------------------------------------
+
+# Bivariate Analysis
 
 ```{r}
 # Bivariate 1: Correlation between age and time spent in nature
@@ -159,8 +161,8 @@ Project_Data <- subset(Project_Data, !is.na(D_Age) & !is.na(D_hours))
 # Scatter plot 
 
 ggplot(Project_Data, aes(x = D_Age, y = D_hours)) +
-  geom_point(color = "orange", alpha = 0.6) +
-  geom_smooth(method = "lm", se = FALSE, color = "red") +
+  geom_point(color = "darkgreen", alpha = 0.6) +
+  geom_smooth(method = "lm", se = FALSE, color = "chartreuse") +
   xlab("Age (Years)") +
   ylab("Hours Outside per Week") +
   ggtitle("Does Age Influence Time Spent in Nature?") +
@@ -168,7 +170,7 @@ ggplot(Project_Data, aes(x = D_Age, y = D_hours)) +
   theme(plot.title = element_text(size = 14, face = "bold"))  
 ```
 
--   The scatter plot shown here shows that there is a slight positive correlation between age and time spent outside hourly per week. The positive correlation shows that older individuals might spend a little bit more time in nature. However, when it comes to my research interest concerning the relationship between loneliness and nature, age does not seem to be a strong factor.
+-   The scatter plot shown here shows that there is a *slight* positive correlation between age and time spent outside hourly per week. The positive correlation shows that older individuals might spend a little bit more time in nature. However, when it comes to my research interest concerning the relationship between loneliness and nature, age does not seem to be a strong factor.
 
 ```{r}
 # Bivariate 2: Correlation between time spent in nature and general emptiness  
@@ -180,7 +182,7 @@ summary_data <- Project_Data %>%
 
 # Bar graph
 ggplot(summary_data, aes(x = Lon_1, y = Avg_Hours, fill = Lon_1)) +
-  geom_bar(stat = "identity", fill = "red", color = "black") +
+  geom_bar(stat = "identity", fill = "chartreuse", color = "black") +
   xlab("Sense of Emptiness") +
   ylab("Average Hours Outside per Week") +
   ggtitle("Average Hours in Nature by Sense of Emptiness") +
@@ -189,9 +191,11 @@ ggplot(summary_data, aes(x = Lon_1, y = Avg_Hours, fill = Lon_1)) +
   guides(fill = FALSE)
 ```
 
--   The bar graph shown here illustrates the relationship between people's sense of emptiness, and their average hours spent in nature. Individuals who say YES to feeling empty, show, a high number of hours outside, and are like those who say NO to feeling empty as well. However, people who said MORE OR LESS, spent the least amount of time outside. They would mean that the relationship between a sense of emptiness and time spent in nature is not straightforward and there could be other factors influencing nature and loneliness.
+-   The bar graph shown here illustrates the relationship between people's sense of emptiness, and their average hours spent in nature. Individuals who said **YES** to feeling empty showed a relatively high number of hours outside, and are like those who say **NO** to feeling empty as well. However, people who said **MORE OR LESS**, spent the least amount of time outside. They would mean that the relationship between a sense of emptiness and time spent in nature is not straightforward and there could be other factors influencing nature and loneliness.
 
-# **---------------------Chi-Square Test of Independence———————**
+------------------------------------------------------------------------
+
+# **Chi-Square Test of Independence**
 
 ```{r}
 # Recode D_Gender into a factor with labels "man" and "woman"
@@ -239,13 +243,13 @@ ggplot(Men_Data_Clean, aes(x = Nature_Hours_Group, fill = Lon_1)) +
     axis.text.y = element_text(size = 9))
 ```
 
-Chi-Square Test of Independence Analysis #1: Men
+**Chi-Square Test of Independence Analysis #1:** Men
 
-This analysis tested whether there is a relationship between men's time spent in nature hourly per-week (grouped into four categorical levels), and their reported sense of emptiness ("yes," "more or less," and "no").
+This analysis tested whether there is a relationship between mens time spent in nature hourly per-week (grouped into four categorical levels), and their reported sense of emptiness **("yes," "more or less," and "no")**.
 
-Analyzing the results, most men across all four categories reported not feeling empty. This shows a potential trend: the more time men spend time in nature each week, the less likely they are to report feelings of emptiness. However, in the "Very High (30+)" hours group, there was a modest increase in feelings of emptiness, showing that this relationship is not entirely linear and may be influenced by other factors.
+Analyzing the results, most men across all four categories reported not feeling empty. This shows a potential trend: the more time men spend time in nature each week, the less likely they are to report feelings of emptiness. However, in the "**Very High (30+)**" hours group, there was a modest increase in feelings of emptiness, showing that this relationship is not entirely linear and may be influenced by other factors.
 
-The chi-square test resulted in a p-value of 0.001, making it statistically significant. This value is below the threshold of 0.05, therefore we reject the null hypothesis. Our null hypothesis was that there is no relationship between time spent in nature and symptoms of emptiness among men.
+The chi-square test resulted in a p-value of 0.001, making it statistically significant. This value is below the threshold of 0.05, **therefore we reject the null hypothesis.** Our [null hypothesis was that there is no relationship between time spent in nature and symptoms of emptiness among men.]{.underline}
 
 ```{r}
 # Women Chi-Square
@@ -283,7 +287,7 @@ ggplot(Women_Data_Clean, aes(x = Nature_Hours_Group, fill = Lon_1)) +
     axis.text.y = element_text(size = 9))
 ```
 
-Chi-Square Test of Independence Analysis #2: Women
+**Chi-Square Test of Independence Analysis #2:** Women
 
 A similar analysis was done for women to determine whether their time spent in nature is related to reported feelings of emptiness.
 
@@ -291,7 +295,9 @@ The test analysis yielded similar finding when compared to the previous test con
 
 In essence, besides rejecting the null hypothesis in favor of the alternative one, these two test support the idea that spending time in nature may reduce feelings of emptiness. This is further evidence as the p-value was the same for woman (0.001) as it was for men.
 
-# **---------------------Single T-Test———————**
+------------------------------------------------------------------------
+
+# **Single T-Test**
 
 ```{r}
 # T-test
@@ -303,16 +309,16 @@ print(t_test_result)
 
 # Histogram 
 ggplot(Project_Data, aes(x = D_hours)) +
-  geom_histogram(binwidth = 2, fill = "green", color = "black") +
+  geom_histogram(binwidth = 2, fill = "chartreuse", color = "black") +
   labs(title = "Time Spent in Nature per Week",
        x = "Hours per Week",
        y = "Frequency") +
       theme_classic()
 ```
 
-Null Hypothesis: People spend 5 hours or more per week in nature
+[Null Hypothesis: People spend 5 hours or more per week in nature]{.underline}
 
-Alt Hypothesis: People spend less than 5 hours per week in nature
+[Alt Hypothesis: People spend less than 5 hours per week in nature]{.underline}
 
 This is a single T-test to see whether people spend less than 5 hours per week in nature.
 
