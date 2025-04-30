@@ -1,0 +1,4 @@
+```{r load-data}
+Chi-Square_Work <- read_csv("/cloud/project/Lab Assignments/Chi-Square")
+glimpse(my_data)
+```

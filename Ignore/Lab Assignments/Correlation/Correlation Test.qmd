@@ -1,0 +1,53 @@
+---
+title: "Correlation Test"
+format: 
+  pdf:
+    number-sections: true
+    toc: true
+    pdf-engine: xelatex 
+    geometry: margin=1in
+    fontsize: 8pt
+editor: visual
+---
+
+```{r}
+data(iris)
+```
+
+```{r}
+library(ggplot2)
+```
+
+```{r}
+head(iris)
+```
+
+```{r}
+
+#Correlation Test
+
+cor.test(x = iris$Sepal.Length, y = iris$Petal.Length, method = "pearson")
+
+#Scatterplot
+
+ggplot(iris, aes(x = Sepal.Length, y = Petal.Length)) +
+  geom_point(color = "purple") +
+  geom_smooth(method = "lm", se = TRUE, color = "blue") +
+  theme_classic() +
+  labs(
+    title = "Sepal Length vs Petal Length",
+    x = "Sepal Length (cm)",
+    y = "Petal Length (cm)") 
+```
+
+Null Hypothesis (H0): There is no correlation between sepal length and petal length in the population.
+
+Alternative Hypothesis (H1): There is a correlation between sepal length and petal length in the population.
+
+A pearson's correlation was used to examine the relationship between sepal length and petal length in flowers. The sepal is the part that protects the bud before blooming.
+
+The results were statistically significant (being below p \< .05) with a very strong positive correlation found within the data. This would mean that the null hypothesis would be rejected in favor of the alternative hypothesis signifying that both sepal length and petal length are correlated. This suggest that as a flower grows into maturity, both the petals and the sepal grow together.
+
+However, when looking at the scatterplot, some of the points do not follow the linear function. Perhaps another correlation coefficient could have been used besides Pearson.
+
+I also tried spearman correlation, but I got a very similar looking scatter plot.

@@ -10,7 +10,11 @@ format:
 editor: visual
 ---
 
-## Packages & library
+# --------------------Packages & library——————–
+
+```{r}
+install.packages("car")  
+```
 
 ```{r library}
 library(tidyverse)
@@ -21,16 +25,17 @@ library(Hmisc)
 library(readr)
 library(readxl)
 library(ggplot2)
+library(car) 
 ```
 
-## Load
+# --------------------Load———————
 
 ```{r load-data}
 Project_Data = read.csv("/cloud/project/Data/Connection_to_Nature_Data.csv",
 header = TRUE)
 ```
 
-## Variables
+# --------------------Variables——————
 
 ```{r}
 # VARIABLE 1: People's Age
@@ -144,7 +149,7 @@ freq(as.ordered(Project_Data$SE_1), plot = FALSE)
 
 Lastly, I also choose this variable (people's self-esteem) because those who experience loneliness and spend little time in nature differ from those who don't feel loneliness and do spend time in nature. Perhaps those who do spend more time have higher level's of agreement to self-esteem compared to those who do not.
 
-## Bivariate Analysis
+# --------------------Bivariate Analysis——————–
 
 ```{r}
 # Bivariate 1: Correlation between age and time spent in nature
@@ -185,3 +190,134 @@ ggplot(summary_data, aes(x = Lon_1, y = Avg_Hours, fill = Lon_1)) +
 ```
 
 -   The bar graph shown here illustrates the relationship between people's sense of emptiness, and their average hours spent in nature. Individuals who say YES to feeling empty, show, a high number of hours outside, and are like those who say NO to feeling empty as well. However, people who said MORE OR LESS, spent the least amount of time outside. They would mean that the relationship between a sense of emptiness and time spent in nature is not straightforward and there could be other factors influencing nature and loneliness.
+
+# **---------------------Chi-Square Test of Independence———————**
+
+```{r}
+# Recode D_Gender into a factor with labels "man" and "woman"
+Project_Data$D_Gender <- factor(Project_Data$D_Gender, levels = c(1, 2), labels = c("man", "woman"))
+
+# Create a frequency table for D_Gender
+gender_counts <- table(Project_Data$D_Gender)
+
+# Print the counts
+print(gender_counts)
+```
+
+```{r}
+# Men Chi-Square
+Men_Data <- subset(Project_Data, D_Gender == "man")
+
+# Remove missing data
+Men_Data_Clean <- subset(Men_Data, !is.na(Nature_Hours_Group) & !is.na(Lon_1))
+
+# Create the contingency table
+table_men <- table(Men_Data_Clean$Nature_Hours_Group, Men_Data_Clean$Lon_1)
+
+cat("Contingency table for men:\n")
+print(table_men)
+
+# Chi-Square Test
+if (sum(table_men) == 0) {cat("No valid data in table for men.\n")
+  } else {
+  chisq_test_men <- chisq.test(table_men)
+  cat("\n Chi-Square Test for Men:\n")
+  print(chisq_test_men)}
+
+# Bar Chart
+ggplot(Men_Data_Clean, aes(x = Nature_Hours_Group, fill = Lon_1)) +
+  geom_bar(position = "dodge", color = "black") +
+  labs(title = "Men: Time in Nature vs. Emptiness",
+       x = "Hourly Per Week in Nature",
+       y = "Survey Count",
+       fill = "Emptiness Response") +
+  theme_classic() +
+  theme(plot.title = element_text(size = 14, face = "bold"),
+    axis.title.x = element_text(size = 10),
+    axis.title.y = element_text(size = 10),
+    axis.text.x = element_text(size = 9),
+    axis.text.y = element_text(size = 9))
+```
+
+Chi-Square Test of Independence Analysis #1: Men
+
+This analysis tested whether there is a relationship between men's time spent in nature hourly per-week (grouped into four categorical levels), and their reported sense of emptiness ("yes," "more or less," and "no").
+
+Analyzing the results, most men across all four categories reported not feeling empty. This shows a potential trend: the more time men spend time in nature each week, the less likely they are to report feelings of emptiness. However, in the "Very High (30+)" hours group, there was a modest increase in feelings of emptiness, showing that this relationship is not entirely linear and may be influenced by other factors.
+
+The chi-square test resulted in a p-value of 0.001, making it statistically significant. This value is below the threshold of 0.05, therefore we reject the null hypothesis. Our null hypothesis was that there is no relationship between time spent in nature and symptoms of emptiness among men.
+
+```{r}
+# Women Chi-Square
+Women_Data <- subset(Project_Data, D_Gender == "woman")
+
+# Remove missing data
+Women_Data_Clean <- subset(Women_Data, !is.na(Nature_Hours_Group) & !is.na(Lon_1))
+
+# Contingency Table
+table_women <- table(Women_Data_Clean$Nature_Hours_Group, Women_Data_Clean$Lon_1)
+
+cat("Contingency table for women:\n")
+print(table_women)
+
+# Chi-Square Test
+if (sum(table_women) == 0) {cat("No valid data in table for women")
+  } else {
+  chisq_test_women <- chisq.test(table_women)
+   
+cat("\n Chi-Square Test for Women:\n")
+print(chisq_test_women)}
+
+# Bar chart 
+ggplot(Women_Data_Clean, aes(x = Nature_Hours_Group, fill = Lon_1)) +
+  geom_bar(position = "dodge", color = "black") +
+  labs(title = "Women: Time in Nature vs. Emptiness",
+       x = "Hourly Per Week in Nature",
+       y = "Survey Count",
+       fill = "Emptiness Response") +
+  theme_classic() +
+  theme(plot.title = element_text(size = 14, face = "bold"),  
+    axis.title.x = element_text(size = 10),
+    axis.title.y = element_text(size = 10),
+    axis.text.x = element_text(size = 9),
+    axis.text.y = element_text(size = 9))
+```
+
+Chi-Square Test of Independence Analysis #2: Women
+
+A similar analysis was done for women to determine whether their time spent in nature is related to reported feelings of emptiness.
+
+The test analysis yielded similar finding when compared to the previous test concerning men. Therefore, what was stated previously can also be stated here with women too.
+
+In essence, besides rejecting the null hypothesis in favor of the alternative one, these two test support the idea that spending time in nature may reduce feelings of emptiness. This is further evidence as the p-value was the same for woman (0.001) as it was for men.
+
+# **---------------------Single T-Test———————**
+
+```{r}
+# T-test
+nature_hours_clean <- na.omit(Project_Data$D_hours)
+
+t_test_result <- t.test(nature_hours_clean, mu = 5, alternative = "less")
+
+print(t_test_result)
+
+# Histogram 
+ggplot(Project_Data, aes(x = D_hours)) +
+  geom_histogram(binwidth = 2, fill = "green", color = "black") +
+  labs(title = "Time Spent in Nature per Week",
+       x = "Hours per Week",
+       y = "Frequency") +
+      theme_classic()
+```
+
+Null Hypothesis: People spend 5 hours or more per week in nature
+
+Alt Hypothesis: People spend less than 5 hours per week in nature
+
+This is a single T-test to see whether people spend less than 5 hours per week in nature.
+
+This histogram shows that people spend more than 5 hours in nature, with the mean being around 13 hours per week. The data is skewed to the right, meaning more people report higher time in nature.
+
+The T-test gave a p-value of 1. It is not statistically significant to support the alternative hypothesis. It would in fact support the null hypothesis.
+
+This also suggests that people, on average, are getting a decent amount exposure to nature. It is a good amount for mental well-being.

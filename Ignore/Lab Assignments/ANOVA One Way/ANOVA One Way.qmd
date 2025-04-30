@@ -1,0 +1,58 @@
+---
+title: "ANOVA One Way"
+format: 
+  pdf:
+    number-sections: true
+    toc: true
+    pdf-engine: xelatex 
+    geometry: margin=1in
+    fontsize: 8pt
+editor: visual
+---
+
+```{r}
+data("ToothGrowth")
+```
+
+```{r}
+library(car)
+```
+
+```{r}
+# Convert dose to a factor
+ToothGrowth$dose <- as.factor(ToothGrowth$dose)
+
+# ANOVA One-Way
+anova_result <- aov(len ~ dose, data = ToothGrowth)
+summary(anova_result)
+
+# Assumption check
+leveneTest(len ~ dose, data = ToothGrowth)
+
+# Box-plot
+library(ggplot2)
+ggplot(ToothGrowth, aes(x = dose, y = len)) +
+  geom_boxplot(fill = "violet") +
+  labs(title = "Tooth Length by Vitamin C Dose",
+    x = "Dose (mg/day)", y = "Tooth Length") +
+    theme_classic()
+```
+
+```{r}
+#Post-Hoc Test
+TukeyHSD(anova_result)
+```
+
+Null Hypothesis (H0): There is no difference in the averages among the three different Vitamin C dose groups (0.5 mg, 1 mg, and 2 mg).
+
+Alternative Hypothesis (H1): There is a difference (at least two) in the average tooth length among the dose groups.
+
+In the ANOVA one-way test, I checked to see if different amounts of Vitamin C affected how much tooth grew for guinea pigs. The test showed a statistically significant difference between the groups, meaning that at the very least (potentially), one of the dose levels led to a different amount of tooth growth.
+
+The boxplot also shows a visible difference in the median tooth length between the three dose groups.
+
+Therefore, I reject the null hypothesis. Vitamin C does affect guinea pig's tooth growth.
+
+At the post-hoc test, I found that all three comparisons were statistically significant, with higher doses having greater tooth growth.
+
+\*\*Only Vitamin C was looked upon, but not Orange Juice from the dataset.
